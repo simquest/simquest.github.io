@@ -1,0 +1,8 @@
+<map id="SurgSim::Graphics::OsgManager" name="SurgSim::Graphics::OsgManager">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1Manager.html" title="Basic graphics manager class which manages graphics components to provide a visualization of the scen..." alt="" coords="1365,180,1511,221"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1ComponentManager.html" title="Base Component Manager class. " alt="" coords="1036,135,1193,176"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1BasicThread.html" title="Basic thread implementation, tries to maintain a constant rate, supplies startup an initialization..." alt="" coords="625,69,776,111"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="357,43,439,70"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="33,36,162,77"/>
+<area shape="rect" id="node8" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,135,473,176"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SurgSim::Graphics::RenderPass" name="SurgSim::Graphics::RenderPass">
+<area shape="rect" id="node4" href="$classSurgSim_1_1Graphics_1_1OsgScreenSpacePass.html" title="Special RenderPass to draw items using a orthogonal projection, this is specific to the Osg implement..." alt="" coords="21,273,184,315"/>
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="27,95,178,136"/>
+</map>

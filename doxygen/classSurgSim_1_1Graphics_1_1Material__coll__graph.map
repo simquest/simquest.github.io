@@ -1,0 +1,10 @@
+<map id="SurgSim::Graphics::Material" name="SurgSim::Graphics::Material">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1Component.html" title="Component is the main interface class to pass information to the system managers each will decide whe..." alt="" coords="2181,359,2332,401"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="1643,453,1793,494"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="891,376,972,403"/>
+<area shape="rect" id="node18" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="1468,210,1619,251"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="569,369,698,410"/>
+<area shape="rect" id="node7" href="$structSurgSim_1_1Framework_1_1Accessible_1_1Functors.html" title="Private struct to keep the map under control. " alt="" coords="852,471,1011,513"/>
+<area shape="rect" id="node10" href="$classSurgSim_1_1Framework_1_1Scene.html" title="Scene. Basic Container for SceneElements. " alt="" coords="856,119,1007,161"/>
+<area shape="rect" id="node14" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,50,473,91"/>
+</map>

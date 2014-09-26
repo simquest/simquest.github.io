@@ -1,0 +1,3 @@
+<map id="SurgSim::Framework::Scene" name="SurgSim::Framework::Scene">
+<area shape="rect" id="node5" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,149,473,191"/>
+</map>

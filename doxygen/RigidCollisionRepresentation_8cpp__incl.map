@@ -1,0 +1,38 @@
+<map id="SurgSim/Physics/RigidCollisionRepresentation.cpp" name="SurgSim/Physics/RigidCollisionRepresentation.cpp">
+<area shape="rect" id="node2" href="$MeshShape_8h.html" title="SurgSim/Math/MeshShape.h" alt="" coords="1248,102,1443,129"/>
+<area shape="rect" id="node30" href="$Shape_8h.html" title="SurgSim/Math/Shape.h" alt="" coords="2289,191,2450,218"/>
+<area shape="rect" id="node36" href="$RigidCollisionRepresentation_8h.html" title="SurgSim/Physics/RigidCollision\lRepresentation.h" alt="" coords="1807,95,2020,136"/>
+<area shape="rect" id="node40" href="$FrameworkConvert_8h.html" title="SurgSim/Framework/Framework\lConvert.h" alt="" coords="3452,273,3671,315"/>
+<area shape="rect" id="node43" href="$MathConvert_8h.html" title="This contains a series of functions to encode and decode Eigen data structures to and from YAML nodes..." alt="" coords="3222,191,3421,218"/>
+<area shape="rect" id="node46" href="$RigidRepresentationBase_8h.html" title="SurgSim/Physics/RigidRepresentation\lBase.h" alt="" coords="2425,95,2679,136"/>
+<area shape="rect" id="node3" href="$AabbTree_8h.html" title="SurgSim/DataStructures\l/AabbTree.h" alt="" coords="1140,184,1308,225"/>
+<area shape="rect" id="node9" href="$TriangleMesh_8h.html" title="SurgSim/DataStructures\l/TriangleMesh.h" alt="" coords="948,184,1116,225"/>
+<area shape="rect" id="node11" href="$TriangleMeshBase_8h.html" title="SurgSim/DataStructures\l/TriangleMeshBase.h" alt="" coords="200,273,368,315"/>
+<area shape="rect" id="node16" href="$Asset_8h.html" title="SurgSim/Framework/Asset.h" alt="" coords="1069,281,1264,307"/>
+<area shape="rect" id="node18" href="$RigidTransform_8h.html" title="Definitions of 2x2 and 3x3 rigid (isometric) transforms. " alt="" coords="1746,370,1961,397"/>
+<area shape="rect" id="node23" href="$ObjectFactory_8h.html" title="SurgSim/Framework/Object\lFactory.h" alt="" coords="1351,273,1542,315"/>
+<area shape="rect" id="node35" href="$MeshShape-inl_8h.html" title="SurgSim/Math/MeshShape\l&#45;inl.h" alt="" coords="740,184,924,225"/>
+<area shape="rect" id="node5" href="$Tree_8h.html" title="SurgSim/DataStructures\l/Tree.h" alt="" coords="827,273,995,315"/>
+<area shape="rect" id="node7" href="$Aabb_8h.html" title="SurgSim/Math/Aabb.h" alt="" coords="1165,452,1320,479"/>
+<area shape="rect" id="node10" href="$EmptyData_8h.html" title="SurgSim/DataStructures\l/EmptyData.h" alt="" coords="392,273,560,315"/>
+<area shape="rect" id="node21" href="$Vector_8h.html" title="Definitions of small fixed&#45;size vector types. " alt="" coords="2289,281,2449,307"/>
+<area shape="rect" id="node22" href="$TriangleMesh-inl_8h.html" title="SurgSim/DataStructures\l/TriangleMesh&#45;inl.h" alt="" coords="584,273,752,315"/>
+<area shape="rect" id="node13" href="$MeshElement_8h.html" title="SurgSim/DataStructures\l/MeshElement.h" alt="" coords="443,363,611,404"/>
+<area shape="rect" id="node14" href="$Vertices_8h.html" title="SurgSim/DataStructures\l/Vertices.h" alt="" coords="200,363,368,404"/>
+<area shape="rect" id="node15" href="$TriangleMeshBase-inl_8h.html" title="SurgSim/DataStructures\l/TriangleMeshBase&#45;inl.h" alt="" coords="5,363,176,404"/>
+<area shape="rect" id="node20" href="$Quaternion_8h.html" title="Definitions of quaternion types. " alt="" coords="1849,452,2039,479"/>
+<area shape="rect" id="node24" href="$Macros_8h.html" title="SurgSim/Framework/Macros.h" alt="" coords="2444,370,2649,397"/>
+<area shape="rect" id="node29" href="$ObjectFactory-inl_8h.html" title="SurgSim/Framework/Object\lFactory&#45;inl.h" alt="" coords="1458,363,1649,404"/>
+<area shape="rect" id="node31" href="$Accessible_8h.html" title="SurgSim/Framework/Accessible.h" alt="" coords="2889,281,3116,307"/>
+<area shape="rect" id="node34" href="$Matrix_8h.html" title="Definitions of small fixed&#45;size square matrix types. " alt="" coords="2724,370,2881,397"/>
+<area shape="rect" id="node37" href="$Collision_2Representation_8h.html" title="SurgSim/Collision/Representation.h" alt="" coords="1711,191,1950,218"/>
+<area shape="rect" id="node38" href="$BufferedValue_8h.html" title="SurgSim/DataStructures\l/BufferedValue.h" alt="" coords="1617,273,1785,315"/>
+<area shape="rect" id="node39" href="$Framework_2Representation_8h.html" title="SurgSim/Framework/Representation.h" alt="" coords="1860,281,2113,307"/>
+<area shape="rect" id="node41" href="$FrameworkConvert-inl_8h.html" title="SurgSim/Framework/Framework\lConvert&#45;inl.h" alt="" coords="3551,363,3769,404"/>
+<area shape="rect" id="node44" href="$OdeSolver_8h.html" title="SurgSim/Math/OdeSolver.h" alt="" coords="3140,281,3327,307"/>
+<area shape="rect" id="node45" href="$MathConvert-inl_8h.html" title="SurgSim/Math/MathConvert\l&#45;inl.h" alt="" coords="2626,273,2814,315"/>
+<area shape="rect" id="node47" href="$Location_8h.html" title="SurgSim/DataStructures\l/Location.h" alt="" coords="2475,184,2643,225"/>
+<area shape="rect" id="node48" href="$Physics_2Representation_8h.html" title="SurgSim/Physics/Representation.h" alt="" coords="2032,191,2264,218"/>
+<area shape="rect" id="node49" href="$RigidRepresentationState_8h.html" title="SurgSim/Physics/RigidRepresentation\lState.h" alt="" coords="2667,184,2920,225"/>
+<area shape="rect" id="node50" href="$RigidRepresentationBase-inl_8h.html" title="SurgSim/Physics/RigidRepresentation\lBase&#45;inl.h" alt="" coords="2944,184,3197,225"/>
+</map>

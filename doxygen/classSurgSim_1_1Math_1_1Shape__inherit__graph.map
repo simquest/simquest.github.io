@@ -1,0 +1,12 @@
+<map id="SurgSim::Math::Shape" name="SurgSim::Math::Shape">
+<area shape="rect" id="node3" href="$classSurgSim_1_1Math_1_1BoxShape.html" title="Box shape: box centered on (0 0 0), aligned with the axis with different sizes along X..." alt="" coords="425,5,607,32"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Math_1_1CapsuleShape.html" title="Capsule shape: centered on (0, 0, 0), aligned along Y, with length and radius. " alt="" coords="411,56,621,83"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Math_1_1CylinderShape.html" title="Cylinder shape: centered on (0 0 0), aligned along Y, defined with length and radius. " alt="" coords="411,107,621,133"/>
+<area shape="rect" id="node6" href="$classSurgSim_1_1Math_1_1DoubleSidedPlaneShape.html" title="DoubleSidedPlaneShape: The XZ plane (d = 0) with normal pointing along positive Y axis..." alt="" coords="416,158,616,199"/>
+<area shape="rect" id="node7" href="$classSurgSim_1_1Math_1_1MeshShape.html" title="Mesh shape: shape made of a triangle mesh The triangle mesh needs to be watertight to produce valid v..." alt="" coords="420,224,612,251"/>
+<area shape="rect" id="node8" href="$classSurgSim_1_1Math_1_1OctreeShape.html" title="Octree Shape A defined by an octree data structure. " alt="" coords="416,275,616,301"/>
+<area shape="rect" id="node9" href="$classSurgSim_1_1Math_1_1PlaneShape.html" title="The XZ plane (d = 0) with normal pointing along positive Y axis. " alt="" coords="419,325,613,352"/>
+<area shape="rect" id="node10" href="$classSurgSim_1_1Math_1_1SphereShape.html" title="Sphere shape: sphere centered on (0 0 0), defined with radius. " alt="" coords="415,376,617,403"/>
+<area shape="rect" id="node11" href="$classSurgSim_1_1Math_1_1SurfaceMeshShape.html" title="SurfaceMeshShape defines a shape based on a mesh, like MeshShape. " alt="" coords="417,427,615,469"/>
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="5,217,156,258"/>
+</map>

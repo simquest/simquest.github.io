@@ -1,0 +1,20 @@
+<map id="SurgSim::Device::PoseIntegrator" name="SurgSim::Device::PoseIntegrator">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Input_1_1CommonDevice.html" title="A class that implements some common management code on top of the DeviceInterface. " alt="" coords="1683,789,1903,815"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Input_1_1DeviceInterface.html" title="Interface used to communicate with user&#45;interface hardware devices. " alt="" coords="1301,789,1519,815"/>
+<area shape="rect" id="node5" href="$structSurgSim_1_1Input_1_1CommonDevice_1_1State.html" title="SurgSim::Input::CommonDevice\l::State" alt="" coords="937,847,1157,888"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="241,738,322,765"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="5,731,135,772"/>
+<area shape="rect" id="node9" href="$classSurgSim_1_1DataStructures_1_1DataGroup.html" title="A collection of NamedData objects. " alt="" coords="1324,396,1496,437"/>
+<area shape="rect" id="node10" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; VectorType \&gt;" alt="" coords="545,333,745,375"/>
+<area shape="rect" id="node13" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; PoseType \&gt;" alt="" coords="549,399,742,440"/>
+<area shape="rect" id="node16" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; boost::any \&gt;" alt="" coords="549,464,742,505"/>
+<area shape="rect" id="node18" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; ScalarType \&gt;" alt="" coords="545,529,745,571"/>
+<area shape="rect" id="node20" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; DynamicMatrixType \&gt;" alt="" coords="520,109,771,151"/>
+<area shape="rect" id="node22" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; BooleanType \&gt;" alt="" coords="539,268,752,309"/>
+<area shape="rect" id="node24" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; StringType \&gt;" alt="" coords="949,607,1145,648"/>
+<area shape="rect" id="node26" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; IntegerType \&gt;" alt="" coords="543,200,747,241"/>
+<area shape="rect" id="node15" href="$classSurgSim_1_1DataStructures_1_1NamedVariantData.html" title="A NamedData collection of variant data type. " alt="" coords="961,465,1133,507"/>
+<area shape="rect" id="node28" href="$classSurgSim_1_1Input_1_1InputConsumerInterface.html" title="Interface for a consumer that monitors device and signal state updates (pose, buttons, etc). " alt="" coords="1685,971,1901,1012"/>
+<area shape="rect" id="node29" href="$classSurgSim_1_1Input_1_1OutputProducerInterface.html" title="Interface for a producer that generates device output updates (forces, status LED state..." alt="" coords="1683,1036,1902,1077"/>
+<area shape="rect" id="node31" href="$classSurgSim_1_1Framework_1_1Timer.html" title="Timer class, measures execution times. " alt="" coords="1717,1153,1868,1195"/>
+</map>

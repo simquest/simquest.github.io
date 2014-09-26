@@ -1,0 +1,5 @@
+<map id="SurgSim::Physics::FemPlyReaderDelegate" name="SurgSim::Physics::FemPlyReaderDelegate">
+<area shape="rect" id="node2" href="$classSurgSim_1_1DataStructures_1_1PlyReaderDelegate.html" title="PlyReaderDelegate abstract class. " alt="" coords="24,5,196,47"/>
+<area shape="rect" id="node3" href="$structSurgSim_1_1Physics_1_1FemPlyReaderDelegate_1_1MaterialData.html" title="Internal data to receive the &quot;material&quot; data. " alt="" coords="6,71,214,112"/>
+<area shape="rect" id="node4" href="$structSurgSim_1_1Physics_1_1FemPlyReaderDelegate_1_1ElementData.html" title="Internal data to receive the fem element. " alt="" coords="5,136,215,177"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="SurgSim::Device::LabJackThread" name="SurgSim::Device::LabJackThread">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1BasicThread.html" title="Basic thread implementation, tries to maintain a constant rate, supplies startup an initialization..." alt="" coords="979,922,1129,963"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="414,812,495,839"/>
+<area shape="rect" id="node13" href="$classSurgSim_1_1Device_1_1LabJackScaffold_1_1Handle.html" title="SurgSim::Device::LabJack\lScaffold::Handle" alt="" coords="737,863,922,905"/>
+<area shape="rect" id="node14" href="$classSurgSim_1_1Device_1_1LabJackDevice.html" title="A class implementing the communication with a LabJack data acquisition (DAQ) device. " alt="" coords="2391,705,2576,746"/>
+<area shape="rect" id="node15" href="$classSurgSim_1_1Input_1_1CommonDevice.html" title="A class that implements some common management code on top of the DeviceInterface. " alt="" coords="1955,733,2175,760"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="62,805,191,846"/>
+<area shape="rect" id="node5" href="$structSurgSim_1_1Device_1_1LabJackScaffold_1_1DeviceData.html" title="The per&#45;device data. " alt="" coords="2756,705,2941,746"/>
+<area shape="rect" id="node10" href="$structSurgSim_1_1Device_1_1LabJack_1_1AnalogInputSettings.html" title="A struct holding the data to be associated with the positive channel for an analog input..." alt="" coords="1620,98,1805,139"/>
+<area shape="rect" id="node11" href="$classSurgSim_1_1DataStructures_1_1OptionalValue.html" title="SurgSim::DataStructures\l::OptionalValue\&lt; int \&gt;" alt="" coords="1177,58,1349,99"/>
+<area shape="rect" id="node40" href="$structSurgSim_1_1Device_1_1LabJack_1_1TimerSettings.html" title="A struct holding the data to be associated with a Timer. " alt="" coords="1620,217,1805,258"/>
+<area shape="rect" id="node16" href="$classSurgSim_1_1Input_1_1DeviceInterface.html" title="Interface used to communicate with user&#45;interface hardware devices. " alt="" coords="1604,700,1821,727"/>
+<area shape="rect" id="node18" href="$structSurgSim_1_1Input_1_1CommonDevice_1_1State.html" title="SurgSim::Input::CommonDevice\l::State" alt="" coords="1153,666,1373,707"/>
+<area shape="rect" id="node20" href="$classSurgSim_1_1DataStructures_1_1DataGroup.html" title="A collection of NamedData objects. " alt="" coords="1627,390,1799,431"/>
+<area shape="rect" id="node21" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; VectorType \&gt;" alt="" coords="729,546,929,587"/>
+<area shape="rect" id="node24" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; PoseType \&gt;" alt="" coords="733,611,926,653"/>
+<area shape="rect" id="node27" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; boost::any \&gt;" alt="" coords="733,429,926,470"/>
+<area shape="rect" id="node29" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; ScalarType \&gt;" alt="" coords="729,234,929,275"/>
+<area shape="rect" id="node31" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; DynamicMatrixType \&gt;" alt="" coords="704,299,955,341"/>
+<area shape="rect" id="node33" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; BooleanType \&gt;" alt="" coords="723,169,936,210"/>
+<area shape="rect" id="node35" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; StringType \&gt;" alt="" coords="1165,390,1361,431"/>
+<area shape="rect" id="node37" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; IntegerType \&gt;" alt="" coords="727,43,931,85"/>
+<area shape="rect" id="node26" href="$classSurgSim_1_1DataStructures_1_1NamedVariantData.html" title="A NamedData collection of variant data type. " alt="" coords="1177,455,1349,497"/>
+<area shape="rect" id="node41" href="$classSurgSim_1_1Device_1_1LabJackScaffold.html" title="A class that implements the behavior of LabJackDevice objects. " alt="" coords="1620,983,1805,1025"/>
+<area shape="rect" id="node43" href="$structSurgSim_1_1Device_1_1LabJackScaffold_1_1StateData.html" title="The per&#45;scaffold data (in comparison to DeviceData the per&#45;device data). " alt="" coords="737,987,922,1029"/>
+</map>

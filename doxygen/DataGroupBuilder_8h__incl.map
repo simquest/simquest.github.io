@@ -1,0 +1,18 @@
+<map id="SurgSim/DataStructures/DataGroupBuilder.h" name="SurgSim/DataStructures/DataGroupBuilder.h">
+<area shape="rect" id="node2" href="$NamedDataBuilder_8h.html" title="SurgSim/DataStructures\l/NamedDataBuilder.h" alt="" coords="179,273,347,315"/>
+<area shape="rect" id="node22" href="$NamedVariantData_8h.html" title="SurgSim/DataStructures\l/NamedVariantData.h" alt="" coords="400,184,568,225"/>
+<area shape="rect" id="node25" href="$DataGroup_8h.html" title="SurgSim/DataStructures\l/DataGroup.h" alt="" coords="540,95,708,136"/>
+<area shape="rect" id="node4" href="$NamedData_8h.html" title="SurgSim/DataStructures\l/NamedData.h" alt="" coords="453,363,621,404"/>
+<area shape="rect" id="node7" href="$Assert_8h.html" title="The header that provides the assertion API. " alt="" coords="337,541,535,568"/>
+<area shape="rect" id="node19" href="$IndexDirectory_8h.html" title="SurgSim/DataStructures\l/IndexDirectory.h" alt="" coords="696,452,864,493"/>
+<area shape="rect" id="node20" href="$NamedData-inl_8h.html" title="SurgSim/DataStructures\l/NamedData&#45;inl.h" alt="" coords="352,452,520,493"/>
+<area shape="rect" id="node8" href="$Logger_8h.html" title="SurgSim/Framework/Logger.h" alt="" coords="144,795,347,821"/>
+<area shape="rect" id="node14" href="$AssertMessage_8h.html" title="SurgSim/Framework/Assert\lMessage.h" alt="" coords="122,616,310,657"/>
+<area shape="rect" id="node9" href="$LoggerManager_8h.html" title="SurgSim/Framework/Logger\lManager.h" alt="" coords="382,869,575,911"/>
+<area shape="rect" id="node12" href="$LogOutput_8h.html" title="SurgSim/Framework/LogOutput.h" alt="" coords="133,877,357,903"/>
+<area shape="rect" id="node15" href="$LogMessageBase_8h.html" title="SurgSim/Framework/LogMessage\lBase.h" alt="" coords="386,705,617,747"/>
+<area shape="rect" id="node24" href="$NamedVariantData-inl_8h.html" title="SurgSim/DataStructures\l/NamedVariantData&#45;inl.h" alt="" coords="157,452,328,493"/>
+<area shape="rect" id="node27" href="$RigidTransform_8h.html" title="Definitions of 2x2 and 3x3 rigid (isometric) transforms. " alt="" coords="961,191,1175,218"/>
+<area shape="rect" id="node31" href="$Vector_8h.html" title="Definitions of small fixed&#45;size vector types. " alt="" coords="656,281,816,307"/>
+<area shape="rect" id="node29" href="$Quaternion_8h.html" title="Definitions of quaternion types. " alt="" coords="993,281,1183,307"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="SurgSim/Devices/Sixense/SixenseScaffold.cpp" name="SurgSim/Devices/Sixense/SixenseScaffold.cpp">
+<area shape="rect" id="node2" href="$SixenseScaffold_8h.html" title="SurgSim/Devices/Sixense\l/SixenseScaffold.h" alt="" coords="2025,184,2207,225"/>
+<area shape="rect" id="node11" href="$DataGroup_8h.html" title="SurgSim/DataStructures\l/DataGroup.h" alt="" coords="981,273,1149,315"/>
+<area shape="rect" id="node15" href="$Assert_8h.html" title="The header that provides the assertion API. " alt="" coords="1450,720,1649,747"/>
+<area shape="rect" id="node24" href="$RigidTransform_8h.html" title="Definitions of 2x2 and 3x3 rigid (isometric) transforms. " alt="" coords="691,370,906,397"/>
+<area shape="rect" id="node28" href="$Vector_8h.html" title="Definitions of small fixed&#45;size vector types. " alt="" coords="864,459,1024,486"/>
+<area shape="rect" id="node33" href="$SixenseDevice_8h.html" title="SurgSim/Devices/Sixense\l/SixenseDevice.h" alt="" coords="191,95,374,136"/>
+<area shape="rect" id="node37" href="$SixenseThread_8h.html" title="SurgSim/Devices/Sixense\l/SixenseThread.h" alt="" coords="2229,452,2411,493"/>
+<area shape="rect" id="node42" href="$Log_8h.html" title="The convenience header that provides the entirety of the logging API. " alt="" coords="1035,638,1218,665"/>
+<area shape="rect" id="node45" href="$SharedInstance_8h.html" title="SurgSim/Framework/Shared\lInstance.h" alt="" coords="2751,541,2945,583"/>
+<area shape="rect" id="node48" href="$DataGroupBuilder_8h.html" title="SurgSim/DataStructures\l/DataGroupBuilder.h" alt="" coords="1303,184,1471,225"/>
+<area shape="rect" id="node49" href="$Matrix_8h.html" title="Definitions of small fixed&#45;size square matrix types. " alt="" coords="365,459,523,486"/>
+<area shape="rect" id="node4" href="$Logger_8h.html" title="SurgSim/Framework/Logger.h" alt="" coords="1221,981,1424,1007"/>
+<area shape="rect" id="node5" href="$LoggerManager_8h.html" title="SurgSim/Framework/Logger\lManager.h" alt="" coords="1365,1063,1558,1104"/>
+<area shape="rect" id="node8" href="$LogOutput_8h.html" title="SurgSim/Framework/LogOutput.h" alt="" coords="1116,1070,1340,1097"/>
+<area shape="rect" id="node13" href="$NamedData_8h.html" title="SurgSim/DataStructures\l/NamedData.h" alt="" coords="1200,541,1368,583"/>
+<area shape="rect" id="node20" href="$NamedVariantData_8h.html" title="SurgSim/DataStructures\l/NamedVariantData.h" alt="" coords="1303,363,1471,404"/>
+<area shape="rect" id="node18" href="$IndexDirectory_8h.html" title="SurgSim/DataStructures\l/IndexDirectory.h" alt="" coords="619,631,787,672"/>
+<area shape="rect" id="node19" href="$NamedData-inl_8h.html" title="SurgSim/DataStructures\l/NamedData&#45;inl.h" alt="" coords="1293,631,1461,672"/>
+<area shape="rect" id="node16" href="$AssertMessage_8h.html" title="SurgSim/Framework/Assert\lMessage.h" alt="" coords="1430,795,1618,836"/>
+<area shape="rect" id="node17" href="$LogMessageBase_8h.html" title="SurgSim/Framework/LogMessage\lBase.h" alt="" coords="1021,884,1251,925"/>
+<area shape="rect" id="node22" href="$NamedDataBuilder_8h.html" title="SurgSim/DataStructures\l/NamedDataBuilder.h" alt="" coords="1629,452,1797,493"/>
+<area shape="rect" id="node23" href="$NamedVariantData-inl_8h.html" title="SurgSim/DataStructures\l/NamedVariantData&#45;inl.h" alt="" coords="1301,452,1472,493"/>
+<area shape="rect" id="node26" href="$Quaternion_8h.html" title="Definitions of quaternion types. " alt="" coords="598,459,789,486"/>
+<area shape="rect" id="node34" href="$CommonDevice_8h.html" title="SurgSim/Input/CommonDevice.h" alt="" coords="162,191,385,218"/>
+<area shape="rect" id="node35" href="$DeviceInterface_8h.html" title="SurgSim/Input/DeviceInterface.h" alt="" coords="472,891,691,918"/>
+<area shape="rect" id="node36" href="$InputConsumerInterface_8h.html" title="SurgSim/Input/InputConsumer\lInterface.h" alt="" coords="455,973,663,1015"/>
+<area shape="rect" id="node38" href="$BasicThread_8h.html" title="SurgSim/Framework/BasicThread.h" alt="" coords="2145,549,2383,575"/>
+<area shape="rect" id="node41" href="$Barrier_8h.html" title="SurgSim/Framework/Barrier.h" alt="" coords="1923,638,2123,665"/>
+<area shape="rect" id="node43" href="$LogMessage_8h.html" title="SurgSim/Framework/LogMessage.h" alt="" coords="1013,802,1253,829"/>
+<area shape="rect" id="node44" href="$LogMacros_8h.html" title="Macros used for logging. " alt="" coords="1075,720,1303,747"/>
+<area shape="rect" id="node47" href="$SharedInstance-inl_8h.html" title="SurgSim/Framework/Shared\lInstance&#45;inl.h" alt="" coords="2751,631,2945,672"/>
+</map>

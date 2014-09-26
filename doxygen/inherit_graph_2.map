@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structGlutRenderObject.html" title="Abstract definition of an object that can render itself with Glut. " alt="" coords="5,81,137,108"/>
+<area shape="rect" id="node2" href="$structGlutAxes.html" title="Axes with center at local origin, red axis along the local X&#45;axis, green axis along the local Y&#45;axis..." alt="" coords="192,5,271,32"/>
+<area shape="rect" id="node3" href="$structGlutGroup.html" title="Group of objects which provides a transform hierarchy. " alt="" coords="188,56,275,83"/>
+<area shape="rect" id="node4" href="$structGlutSphere.html" title="Sphere with center at local origin. " alt="" coords="186,107,277,133"/>
+<area shape="rect" id="node5" href="$structGlutSquare.html" title="Square with center at local origin. " alt="" coords="185,157,277,184"/>
+</map>

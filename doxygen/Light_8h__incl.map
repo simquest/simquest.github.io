@@ -1,0 +1,20 @@
+<map id="SurgSim/Graphics/Light.h" name="SurgSim/Graphics/Light.h">
+<area shape="rect" id="node2" href="$Graphics_2Representation_8h.html" title="SurgSim/Graphics/Representation.h" alt="" coords="365,80,605,107"/>
+<area shape="rect" id="node40" href="$Vector_8h.html" title="Definitions of small fixed&#45;size vector types. " alt="" coords="503,401,663,427"/>
+<area shape="rect" id="node3" href="$Framework_2Representation_8h.html" title="SurgSim/Framework/Representation.h" alt="" coords="461,155,714,181"/>
+<area shape="rect" id="node36" href="$RigidTransform_8h.html" title="Definitions of 2x2 and 3x3 rigid (isometric) transforms. " alt="" coords="177,311,392,338"/>
+<area shape="rect" id="node5" href="$Component_8h.html" title="SurgSim/Framework/Component.h" alt="" coords="1419,229,1651,256"/>
+<area shape="rect" id="node8" href="$Accessible_8h.html" title="SurgSim/Framework/Accessible.h" alt="" coords="995,311,1222,338"/>
+<area shape="rect" id="node30" href="$ObjectFactory_8h.html" title="SurgSim/Framework/Object\lFactory.h" alt="" coords="1956,304,2147,345"/>
+<area shape="rect" id="node13" href="$Matrix_8h.html" title="Definitions of small fixed&#45;size square matrix types. " alt="" coords="322,401,479,427"/>
+<area shape="rect" id="node18" href="$Accessible-inl_8h.html" title="SurgSim/Framework/Accessible\l&#45;inl.h" alt="" coords="1225,393,1443,435"/>
+<area shape="rect" id="node19" href="$Assert_8h.html" title="The header that provides the assertion API. " alt="" coords="1321,483,1520,509"/>
+<area shape="rect" id="node20" href="$Logger_8h.html" title="SurgSim/Framework/Logger.h" alt="" coords="1326,736,1529,763"/>
+<area shape="rect" id="node25" href="$AssertMessage_8h.html" title="SurgSim/Framework/Assert\lMessage.h" alt="" coords="1459,557,1647,599"/>
+<area shape="rect" id="node21" href="$LoggerManager_8h.html" title="SurgSim/Framework/Logger\lManager.h" alt="" coords="1315,811,1508,852"/>
+<area shape="rect" id="node23" href="$LogOutput_8h.html" title="SurgSim/Framework/LogOutput.h" alt="" coords="1533,818,1757,845"/>
+<area shape="rect" id="node26" href="$LogMessageBase_8h.html" title="SurgSim/Framework/LogMessage\lBase.h" alt="" coords="1491,647,1721,688"/>
+<area shape="rect" id="node31" href="$Macros_8h.html" title="SurgSim/Framework/Macros.h" alt="" coords="1873,401,2078,427"/>
+<area shape="rect" id="node35" href="$ObjectFactory-inl_8h.html" title="SurgSim/Framework/Object\lFactory&#45;inl.h" alt="" coords="1537,393,1728,435"/>
+<area shape="rect" id="node37" href="$Quaternion_8h.html" title="Definitions of quaternion types. " alt="" coords="5,401,196,427"/>
+</map>

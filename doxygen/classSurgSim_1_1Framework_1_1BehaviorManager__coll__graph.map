@@ -1,0 +1,7 @@
+<map id="SurgSim::Framework::BehaviorManager" name="SurgSim::Framework::BehaviorManager">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1ComponentManager.html" title="Base Component Manager class. " alt="" coords="1024,111,1181,152"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1BasicThread.html" title="Basic thread implementation, tries to maintain a constant rate, supplies startup an initialization..." alt="" coords="625,5,776,47"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="357,13,439,39"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="33,5,162,47"/>
+<area shape="rect" id="node7" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,71,473,112"/>
+</map>

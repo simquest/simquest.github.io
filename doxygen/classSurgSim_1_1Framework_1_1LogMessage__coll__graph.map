@@ -1,0 +1,11 @@
+<map id="SurgSim::Framework::LogMessage" name="SurgSim::Framework::LogMessage">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1LogMessageBase.html" title="LogMessageBase is a base class to be used to customize messages for logging textual information can b..." alt="" coords="106,456,257,497"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="25,359,156,386"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="5,248,176,289"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="22,157,159,199"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="11,81,170,108"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="39,5,143,32"/>
+<area shape="rect" id="node8" href="$classSurgSim_1_1Framework_1_1Logger.html" title="An object that can be used to control logging parameters, such as verbosity and log output destinatio..." alt="" coords="181,352,331,393"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="215,255,297,282"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="191,157,321,199"/>
+</map>

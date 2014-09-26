@@ -1,0 +1,17 @@
+<map id="SurgSim/Framework/PoseComponent.h" name="SurgSim/Framework/PoseComponent.h">
+<area shape="rect" id="node3" href="$Component_8h.html" title="SurgSim/Framework/Component.h" alt="" coords="949,80,1181,107"/>
+<area shape="rect" id="node29" href="$Macros_8h.html" title="SurgSim/Framework/Macros.h" alt="" coords="805,251,1011,278"/>
+<area shape="rect" id="node34" href="$RigidTransform_8h.html" title="Definitions of 2x2 and 3x3 rigid (isometric) transforms. " alt="" coords="2103,162,2318,189"/>
+<area shape="rect" id="node6" href="$Accessible_8h.html" title="SurgSim/Framework/Accessible.h" alt="" coords="1480,162,1707,189"/>
+<area shape="rect" id="node28" href="$ObjectFactory_8h.html" title="SurgSim/Framework/Object\lFactory.h" alt="" coords="345,155,535,196"/>
+<area shape="rect" id="node11" href="$Matrix_8h.html" title="Definitions of small fixed&#45;size square matrix types. " alt="" coords="1949,251,2107,278"/>
+<area shape="rect" id="node16" href="$Accessible-inl_8h.html" title="SurgSim/Framework/Accessible\l&#45;inl.h" alt="" coords="1137,244,1354,285"/>
+<area shape="rect" id="node17" href="$Assert_8h.html" title="The header that provides the assertion API. " alt="" coords="965,333,1163,360"/>
+<area shape="rect" id="node18" href="$Logger_8h.html" title="SurgSim/Framework/Logger.h" alt="" coords="940,587,1143,613"/>
+<area shape="rect" id="node23" href="$AssertMessage_8h.html" title="SurgSim/Framework/Assert\lMessage.h" alt="" coords="954,408,1142,449"/>
+<area shape="rect" id="node19" href="$LoggerManager_8h.html" title="SurgSim/Framework/Logger\lManager.h" alt="" coords="961,661,1154,703"/>
+<area shape="rect" id="node21" href="$LogOutput_8h.html" title="SurgSim/Framework/LogOutput.h" alt="" coords="712,669,936,695"/>
+<area shape="rect" id="node24" href="$LogMessageBase_8h.html" title="SurgSim/Framework/LogMessage\lBase.h" alt="" coords="721,497,951,539"/>
+<area shape="rect" id="node33" href="$ObjectFactory-inl_8h.html" title="SurgSim/Framework/Object\lFactory&#45;inl.h" alt="" coords="590,244,781,285"/>
+<area shape="rect" id="node35" href="$Quaternion_8h.html" title="Definitions of quaternion types. " alt="" coords="2182,251,2373,278"/>
+</map>

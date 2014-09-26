@@ -1,0 +1,14 @@
+<map id="SurgSim::Physics::RigidCollisionRepresentation" name="SurgSim::Physics::RigidCollisionRepresentation">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Collision_1_1Representation.html" title="Wrapper class to use for the collision operation, handles its enclosed shaped and a possible local to..." alt="" coords="2845,469,2980,511"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1Representation.html" title="Representations are manifestations of a SceneElement. " alt="" coords="2486,339,2637,380"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1Component.html" title="Component is the main interface class to pass information to the system managers each will decide whe..." alt="" coords="2181,304,2332,345"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="1643,44,1793,85"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="891,127,972,154"/>
+<area shape="rect" id="node20" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="1468,363,1619,404"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="569,120,698,161"/>
+<area shape="rect" id="node9" href="$structSurgSim_1_1Framework_1_1Accessible_1_1Functors.html" title="Private struct to keep the map under control. " alt="" coords="852,5,1011,47"/>
+<area shape="rect" id="node12" href="$classSurgSim_1_1Framework_1_1Scene.html" title="Scene. Basic Container for SceneElements. " alt="" coords="856,500,1007,541"/>
+<area shape="rect" id="node16" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,421,473,463"/>
+<area shape="rect" id="node23" href="$classSurgSim_1_1DataStructures_1_1BufferedValue.html" title="SurgSim::DataStructures\l::BufferedValue\&lt; ContactMapType \&gt;" alt="" coords="2437,495,2685,536"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="2183,551,2330,592"/>
+</map>

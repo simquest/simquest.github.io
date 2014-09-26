@@ -1,0 +1,6 @@
+<map id="SurgSim::Graphics::OsgTextureUniform&lt; T &gt;" name="SurgSim::Graphics::OsgTextureUniform&lt; T &gt;">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1Uniform.html" title="SurgSim::Graphics::\lUniform\&lt; std::shared\l_ptr\&lt; T \&gt; \&gt;" alt="" coords="397,5,545,61"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1UniformBase.html" title="Common base class for all graphics uniforms. " alt="" coords="204,49,349,90"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Graphics_1_1OsgUniformBase.html" title="Base OSG implementation of graphics uniforms. " alt="" coords="399,85,544,126"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="5,49,156,90"/>
+</map>

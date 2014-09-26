@@ -1,0 +1,4 @@
+<map id="SurgSim::Physics::Fem3DRepresentationLocalization" name="SurgSim::Physics::Fem3DRepresentationLocalization">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Physics_1_1Localization.html" title="This class localize a point on a representation (representation specific) " alt="" coords="5,13,216,39"/>
+<area shape="rect" id="node3" href="$structSurgSim_1_1DataStructures_1_1IndexedLocalCoordinate.html" title="A generic (size_t index, Vector coordinate) pair. " alt="" coords="241,5,423,47"/>
+</map>

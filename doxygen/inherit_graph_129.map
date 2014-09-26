@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSurgSim_1_1Graphics_1_1Group.html" title="Base graphics group class, which defines the interface that all graphics groups must implement..." alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1OsgGroup.html" title="OSG implementation of a graphics group. " alt="" coords="199,5,344,47"/>
+</map>

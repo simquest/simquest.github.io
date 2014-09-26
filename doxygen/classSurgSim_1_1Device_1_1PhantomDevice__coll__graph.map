@@ -1,0 +1,17 @@
+<map id="SurgSim::Device::PhantomDevice" name="SurgSim::Device::PhantomDevice">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Input_1_1CommonDevice.html" title="A class that implements some common management code on top of the DeviceInterface. " alt="" coords="1687,410,1907,437"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Input_1_1DeviceInterface.html" title="Interface used to communicate with user&#45;interface hardware devices. " alt="" coords="1336,351,1553,378"/>
+<area shape="rect" id="node5" href="$structSurgSim_1_1Input_1_1CommonDevice_1_1State.html" title="SurgSim::Input::CommonDevice\l::State" alt="" coords="937,61,1157,103"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="241,738,322,765"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="5,731,135,772"/>
+<area shape="rect" id="node9" href="$classSurgSim_1_1DataStructures_1_1DataGroup.html" title="A collection of NamedData objects. " alt="" coords="1359,403,1531,444"/>
+<area shape="rect" id="node10" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; VectorType \&gt;" alt="" coords="545,268,745,309"/>
+<area shape="rect" id="node13" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; PoseType \&gt;" alt="" coords="549,333,742,375"/>
+<area shape="rect" id="node16" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; boost::any \&gt;" alt="" coords="549,399,742,440"/>
+<area shape="rect" id="node18" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; ScalarType \&gt;" alt="" coords="545,529,745,571"/>
+<area shape="rect" id="node20" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; DynamicMatrixType \&gt;" alt="" coords="520,123,771,164"/>
+<area shape="rect" id="node22" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; BooleanType \&gt;" alt="" coords="539,200,752,241"/>
+<area shape="rect" id="node24" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; StringType \&gt;" alt="" coords="949,607,1145,648"/>
+<area shape="rect" id="node26" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; IntegerType \&gt;" alt="" coords="543,464,747,505"/>
+<area shape="rect" id="node15" href="$classSurgSim_1_1DataStructures_1_1NamedVariantData.html" title="A NamedData collection of variant data type. " alt="" coords="961,403,1133,444"/>
+</map>

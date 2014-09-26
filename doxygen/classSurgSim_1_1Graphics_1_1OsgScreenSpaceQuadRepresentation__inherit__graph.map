@@ -1,0 +1,8 @@
+<map id="SurgSim::Graphics::OsgScreenSpaceQuadRepresentation" name="SurgSim::Graphics::OsgScreenSpaceQuadRepresentation">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1OsgRepresentation.html" title="Base OSG implementation of a graphics representation. " alt="" coords="867,5,1013,47"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1Representation.html" title="Base graphics representation class, which defines the interface that all graphics representations mus..." alt="" coords="629,39,775,80"/>
+<area shape="rect" id="node8" href="$classSurgSim_1_1Graphics_1_1ScreenSpaceQuadRepresentation.html" title="A quad to display on the screen in screen space coordinates, use setPose() to set the position but x..." alt="" coords="823,71,1057,112"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1Representation.html" title="Representations are manifestations of a SceneElement. " alt="" coords="431,39,581,80"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Framework_1_1Component.html" title="Component is the main interface class to pass information to the system managers each will decide whe..." alt="" coords="232,39,383,80"/>
+<area shape="rect" id="node6" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="19,5,170,47"/>
+</map>

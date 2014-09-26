@@ -1,0 +1,18 @@
+<map id="SurgSim/DataStructures/DataGroup.cpp" name="SurgSim/DataStructures/DataGroup.cpp">
+<area shape="rect" id="node2" href="$DataGroup_8h.html" title="SurgSim/DataStructures\l/DataGroup.h" alt="" coords="369,95,537,136"/>
+<area shape="rect" id="node4" href="$NamedData_8h.html" title="SurgSim/DataStructures\l/NamedData.h" alt="" coords="687,363,855,404"/>
+<area shape="rect" id="node23" href="$NamedVariantData_8h.html" title="SurgSim/DataStructures\l/NamedVariantData.h" alt="" coords="964,184,1132,225"/>
+<area shape="rect" id="node27" href="$RigidTransform_8h.html" title="Definitions of 2x2 and 3x3 rigid (isometric) transforms. " alt="" coords="65,191,279,218"/>
+<area shape="rect" id="node31" href="$Vector_8h.html" title="Definitions of small fixed&#45;size vector types. " alt="" coords="373,281,533,307"/>
+<area shape="rect" id="node8" href="$Assert_8h.html" title="The header that provides the assertion API. " alt="" coords="905,541,1103,568"/>
+<area shape="rect" id="node20" href="$IndexDirectory_8h.html" title="SurgSim/DataStructures\l/IndexDirectory.h" alt="" coords="455,452,623,493"/>
+<area shape="rect" id="node21" href="$NamedData-inl_8h.html" title="SurgSim/DataStructures\l/NamedData&#45;inl.h" alt="" coords="748,452,916,493"/>
+<area shape="rect" id="node9" href="$Logger_8h.html" title="SurgSim/Framework/Logger.h" alt="" coords="1068,795,1271,821"/>
+<area shape="rect" id="node15" href="$AssertMessage_8h.html" title="SurgSim/Framework/Assert\lMessage.h" alt="" coords="910,616,1098,657"/>
+<area shape="rect" id="node10" href="$LoggerManager_8h.html" title="SurgSim/Framework/Logger\lManager.h" alt="" coords="1073,869,1266,911"/>
+<area shape="rect" id="node13" href="$LogOutput_8h.html" title="SurgSim/Framework/LogOutput.h" alt="" coords="1291,877,1515,903"/>
+<area shape="rect" id="node16" href="$LogMessageBase_8h.html" title="SurgSim/Framework/LogMessage\lBase.h" alt="" coords="758,705,989,747"/>
+<area shape="rect" id="node25" href="$NamedDataBuilder_8h.html" title="SurgSim/DataStructures\l/NamedDataBuilder.h" alt="" coords="964,273,1132,315"/>
+<area shape="rect" id="node26" href="$NamedVariantData-inl_8h.html" title="SurgSim/DataStructures\l/NamedVariantData&#45;inl.h" alt="" coords="1212,452,1383,493"/>
+<area shape="rect" id="node29" href="$Quaternion_8h.html" title="Definitions of quaternion types. " alt="" coords="57,281,247,307"/>
+</map>

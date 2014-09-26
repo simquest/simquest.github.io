@@ -1,0 +1,23 @@
+<map id="SurgSim::Device::RawMultiAxisThread" name="SurgSim::Device::RawMultiAxisThread">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1BasicThread.html" title="Basic thread implementation, tries to maintain a constant rate, supplies startup an initialization..." alt="" coords="1035,154,1185,195"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="456,183,537,209"/>
+<area shape="rect" id="node10" href="$structSurgSim_1_1Device_1_1RawMultiAxisScaffold_1_1DeviceData.html" title="SurgSim::Device::RawMulti\lAxisScaffold::DeviceData" alt="" coords="2605,279,2793,321"/>
+<area shape="rect" id="node14" href="$classSurgSim_1_1Input_1_1CommonDevice.html" title="A class that implements some common management code on top of the DeviceInterface. " alt="" coords="1924,451,2144,477"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="76,175,205,217"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Device_1_1RawMultiAxisScaffold.html" title="A class that implements the behavior of RawMultiAxisDevice objects. " alt="" coords="1588,30,1776,71"/>
+<area shape="rect" id="node7" href="$structSurgSim_1_1Device_1_1RawMultiAxisScaffold_1_1StateData.html" title="SurgSim::Device::RawMulti\lAxisScaffold::StateData" alt="" coords="791,27,979,69"/>
+<area shape="rect" id="node13" href="$classSurgSim_1_1Device_1_1RawMultiAxisDevice.html" title="A class implementing the communication with a multi&#45;axis controller input device, for example a 3DCon..." alt="" coords="2246,349,2434,390"/>
+<area shape="rect" id="node15" href="$classSurgSim_1_1Input_1_1DeviceInterface.html" title="Interface used to communicate with user&#45;interface hardware devices. " alt="" coords="1573,548,1791,575"/>
+<area shape="rect" id="node17" href="$structSurgSim_1_1Input_1_1CommonDevice_1_1State.html" title="SurgSim::Input::CommonDevice\l::State" alt="" coords="1209,857,1429,898"/>
+<area shape="rect" id="node19" href="$classSurgSim_1_1DataStructures_1_1DataGroup.html" title="A collection of NamedData objects. " alt="" coords="1596,482,1768,523"/>
+<area shape="rect" id="node20" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; VectorType \&gt;" alt="" coords="785,391,985,433"/>
+<area shape="rect" id="node23" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; PoseType \&gt;" alt="" coords="789,457,982,498"/>
+<area shape="rect" id="node26" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; boost::any \&gt;" alt="" coords="789,522,982,563"/>
+<area shape="rect" id="node28" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; ScalarType \&gt;" alt="" coords="785,653,985,694"/>
+<area shape="rect" id="node30" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; DynamicMatrixType \&gt;" alt="" coords="760,797,1011,838"/>
+<area shape="rect" id="node32" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; BooleanType \&gt;" alt="" coords="779,587,992,629"/>
+<area shape="rect" id="node34" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; StringType \&gt;" alt="" coords="1221,322,1417,363"/>
+<area shape="rect" id="node36" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; IntegerType \&gt;" alt="" coords="783,719,987,761"/>
+<area shape="rect" id="node25" href="$classSurgSim_1_1DataStructures_1_1NamedVariantData.html" title="A NamedData collection of variant data type. " alt="" coords="1233,525,1405,566"/>
+<area shape="rect" id="node40" href="$classSurgSim_1_1Device_1_1SystemInputDeviceHandle.html" title="A wrapper for system&#45;dependent access to an input/HID device. " alt="" coords="1929,502,2139,543"/>
+</map>

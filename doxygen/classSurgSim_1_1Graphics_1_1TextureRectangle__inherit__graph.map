@@ -1,0 +1,4 @@
+<map id="SurgSim::Graphics::TextureRectangle" name="SurgSim::Graphics::TextureRectangle">
+<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1OsgTextureRectangle.html" title="OSG implementation of a Rectangle Texture. " alt="" coords="5,184,164,225"/>
+<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1Texture.html" title="Base class defining the interface for a Graphics Texture. " alt="" coords="12,5,157,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SurgSim::Graphics::Camera" name="SurgSim::Graphics::Camera">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1Representation.html" title="Base graphics representation class, which defines the interface that all graphics representations mus..." alt="" coords="2676,571,2821,613"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1Representation.html" title="Representations are manifestations of a SceneElement. " alt="" coords="2476,407,2627,449"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1Component.html" title="Component is the main interface class to pass information to the system managers each will decide whe..." alt="" coords="2276,191,2427,233"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="1681,114,1832,155"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="891,495,972,521"/>
+<area shape="rect" id="node20" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="1507,267,1657,309"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="569,487,698,529"/>
+<area shape="rect" id="node9" href="$structSurgSim_1_1Framework_1_1Accessible_1_1Functors.html" title="Private struct to keep the map under control. " alt="" coords="852,73,1011,114"/>
+<area shape="rect" id="node12" href="$classSurgSim_1_1Framework_1_1Scene.html" title="Scene. Basic Container for SceneElements. " alt="" coords="856,231,1007,273"/>
+<area shape="rect" id="node16" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,146,473,187"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSurgSim_1_1DataStructures_1_1Tree.html" title="Basic tree structure. " alt="" coords="5,5,177,47"/>
+<area shape="rect" id="node2" href="$classSurgSim_1_1DataStructures_1_1AabbTree.html" title="AabbTree is a tree that is organized by the bounding boxes of the referenced objects, the bounding box used is the Axis Aligned Bounding Box (AABB), with the extents of an AABB describing the min and max of each coordinate for the given object. " alt="" coords="225,5,397,47"/>
+</map>

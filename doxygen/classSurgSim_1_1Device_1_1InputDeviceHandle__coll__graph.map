@@ -1,0 +1,5 @@
+<map id="SurgSim::Device::InputDeviceHandle" name="SurgSim::Device::InputDeviceHandle">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Device_1_1SystemInputDeviceHandle.html" title="A wrapper for system&#45;dependent access to an input/HID device. " alt="" coords="656,5,865,47"/>
+<area shape="rect" id="node4" href="$structSurgSim_1_1Device_1_1InputDeviceHandle_1_1State.html" title="SurgSim::Device::InputDevice\lHandle::State" alt="" coords="381,77,588,119"/>
+<area shape="rect" id="node6" href="$classSurgSim_1_1Device_1_1FileDescriptor.html" title="A wrapper for an UNIX&#45;style integer file descriptor. " alt="" coords="19,117,236,143"/>
+</map>

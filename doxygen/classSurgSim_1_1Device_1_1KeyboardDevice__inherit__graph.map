@@ -1,0 +1,4 @@
+<map id="SurgSim::Device::KeyboardDevice" name="SurgSim::Device::KeyboardDevice">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Input_1_1CommonDevice.html" title="A class that implements some common management code on top of the DeviceInterface. " alt="" coords="5,80,225,107"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Input_1_1DeviceInterface.html" title="Interface used to communicate with user&#45;interface hardware devices. " alt="" coords="7,5,224,32"/>
+</map>

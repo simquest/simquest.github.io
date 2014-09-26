@@ -1,0 +1,4 @@
+<map id="SurgSim::Framework::LogMessageBase" name="SurgSim::Framework::LogMessageBase">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1AssertMessage.html" title="An internal message class used for assertion failures. " alt="" coords="5,95,156,136"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1LogMessage.html" title="Specialization, handles flush on destruction. " alt="" coords="180,95,331,136"/>
+</map>

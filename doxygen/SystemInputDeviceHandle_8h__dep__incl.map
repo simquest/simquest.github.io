@@ -1,0 +1,10 @@
+<map id="SurgSim/Devices/MultiAxis/SystemInputDeviceHandle.h" name="SurgSim/Devices/MultiAxis/SystemInputDeviceHandle.h">
+<area shape="rect" id="node2" href="$InputDeviceHandle_8h.html" title="SurgSim/Devices/MultiAxis\l/linux/InputDeviceHandle.h" alt="" coords="78,95,265,136"/>
+<area shape="rect" id="node5" href="$RawMultiAxisScaffold_8cpp.html" title="SurgSim/Devices/MultiAxis\l/RawMultiAxisScaffold.cpp" alt="" coords="289,95,475,136"/>
+<area shape="rect" id="node6" href="$SystemInputDeviceHandle_8cpp.html" title="SurgSim/Devices/MultiAxis\l/SystemInputDeviceHandle.cpp" alt="" coords="500,95,715,136"/>
+<area shape="rect" id="node7" href="$WdkHidDeviceHandle_8h.html" title="SurgSim/Devices/MultiAxis\l/win32/WdkHidDeviceHandle.h" alt="" coords="739,95,950,136"/>
+<area shape="rect" id="node3" href="$linux_2CreateInputDeviceHandle_8cpp.html" title="SurgSim/Devices/MultiAxis\l/linux/CreateInputDeviceHandle.cpp" alt="" coords="5,184,249,225"/>
+<area shape="rect" id="node4" href="$InputDeviceHandle_8cpp.html" title="SurgSim/Devices/MultiAxis\l/linux/InputDeviceHandle.cpp" alt="" coords="274,184,477,225"/>
+<area shape="rect" id="node8" href="$win32_2CreateInputDeviceHandle_8cpp.html" title="SurgSim/Devices/MultiAxis\l/win32/CreateInputDeviceHandle.cpp" alt="" coords="610,184,861,225"/>
+<area shape="rect" id="node9" href="$WdkHidDeviceHandle_8cpp.html" title="SurgSim/Devices/MultiAxis\l/win32/WdkHidDeviceHandle.cpp" alt="" coords="885,184,1111,225"/>
+</map>

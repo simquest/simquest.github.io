@@ -1,0 +1,14 @@
+<map id="SurgSim::Graphics::OsgLight" name="SurgSim::Graphics::OsgLight">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1OsgRepresentation.html" title="Base OSG implementation of a graphics representation. " alt="" coords="2832,542,2977,583"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1Representation.html" title="Base graphics representation class, which defines the interface that all graphics representations mus..." alt="" coords="2620,542,2765,583"/>
+<area shape="rect" id="node25" href="$classSurgSim_1_1Graphics_1_1Light.html" title="Abstract interface for a light, a light needs to be assigned to a group to be active, only the members of this group will be considered to be lit by this light. " alt="" coords="2832,607,2977,649"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1Representation.html" title="Representations are manifestations of a SceneElement. " alt="" coords="2420,335,2571,377"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Framework_1_1Component.html" title="Component is the main interface class to pass information to the system managers each will decide whe..." alt="" coords="2220,191,2371,233"/>
+<area shape="rect" id="node6" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="1681,106,1832,147"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="891,495,972,521"/>
+<area shape="rect" id="node21" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="1507,267,1657,309"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="569,487,698,529"/>
+<area shape="rect" id="node10" href="$structSurgSim_1_1Framework_1_1Accessible_1_1Functors.html" title="Private struct to keep the map under control. " alt="" coords="852,73,1011,114"/>
+<area shape="rect" id="node13" href="$classSurgSim_1_1Framework_1_1Scene.html" title="Scene. Basic Container for SceneElements. " alt="" coords="856,231,1007,273"/>
+<area shape="rect" id="node17" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,146,473,187"/>
+</map>

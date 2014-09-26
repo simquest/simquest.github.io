@@ -1,0 +1,8 @@
+<map id="SurgSim::Framework::SceneElement" name="SurgSim::Framework::SceneElement">
+<area shape="rect" id="node3" href="$classSurgSim_1_1Blocks_1_1SphereElement.html" title="SurgSim::Blocks::SphereElement" alt="" coords="447,5,671,32"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1BasicSceneElement.html" title="Simple concrete implementation of a scene element that does not have any higher logic. " alt="" coords="482,57,635,98"/>
+<area shape="rect" id="node7" href="$classSurgSim_1_1Graphics_1_1RenderPass.html" title="Encapsulation of all the components necessary needed to implement a full renderpass, this SceneElement contains a Camera and Group, it can also take a Material (for shaders and uniforms) and a RenderTarget for textures that are used as the output for the camera. " alt="" coords="486,122,631,163"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Graphics_1_1ViewElement.html" title="Basic SceneElement that wraps a View so that it can be added to the Scene. " alt="" coords="727,57,873,98"/>
+<area shape="rect" id="node6" href="$classSurgSim_1_1Graphics_1_1OsgViewElement.html" title="OSG&#45;based implementation of graphics view element. " alt="" coords="929,57,1075,98"/>
+<area shape="rect" id="node8" href="$classSurgSim_1_1Graphics_1_1OsgScreenSpacePass.html" title="Special RenderPass to draw items using a orthogonal projection, this is specific to the Osg implement..." alt="" coords="719,122,881,163"/>
+</map>

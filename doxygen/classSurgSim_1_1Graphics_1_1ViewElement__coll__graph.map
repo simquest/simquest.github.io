@@ -1,0 +1,8 @@
+<map id="SurgSim::Graphics::ViewElement" name="SurgSim::Graphics::ViewElement">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1BasicSceneElement.html" title="Simple concrete implementation of a scene element that does not have any higher logic. " alt="" coords="1660,167,1813,208"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="1460,167,1611,208"/>
+<area shape="rect" id="node6" href="$classSurgSim_1_1Framework_1_1Scene.html" title="Scene. Basic Container for SceneElements. " alt="" coords="852,93,1003,135"/>
+<area shape="rect" id="node10" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,151,473,192"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="887,255,968,282"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="569,248,698,289"/>
+</map>

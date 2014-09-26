@@ -1,0 +1,17 @@
+<map id="SurgSim::Testing::MockInputOutput" name="SurgSim::Testing::MockInputOutput">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Input_1_1InputConsumerInterface.html" title="Interface for a consumer that monitors device and signal state updates (pose, buttons, etc). " alt="" coords="1487,154,1703,195"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Input_1_1OutputProducerInterface.html" title="Interface for a producer that generates device output updates (forces, status LED state..." alt="" coords="1485,219,1704,261"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1DataStructures_1_1OptionalValue.html" title="SurgSim::DataStructures\l::OptionalValue\&lt; SurgSim\l::DataStructures::DataGroup \&gt;" alt="" coords="1491,284,1699,340"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1DataStructures_1_1DataGroup.html" title="A collection of NamedData objects. " alt="" coords="1208,337,1380,378"/>
+<area shape="rect" id="node6" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; VectorType \&gt;" alt="" coords="545,43,745,85"/>
+<area shape="rect" id="node9" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; PoseType \&gt;" alt="" coords="549,303,742,345"/>
+<area shape="rect" id="node12" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; boost::any \&gt;" alt="" coords="549,225,742,266"/>
+<area shape="rect" id="node14" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; ScalarType \&gt;" alt="" coords="545,134,745,175"/>
+<area shape="rect" id="node16" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; DynamicMatrixType \&gt;" alt="" coords="520,629,771,670"/>
+<area shape="rect" id="node18" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; BooleanType \&gt;" alt="" coords="539,369,752,410"/>
+<area shape="rect" id="node20" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; StringType \&gt;" alt="" coords="868,443,1064,485"/>
+<area shape="rect" id="node24" href="$classSurgSim_1_1DataStructures_1_1NamedData.html" title="SurgSim::DataStructures\l::NamedData\&lt; IntegerType \&gt;" alt="" coords="543,563,747,605"/>
+<area shape="rect" id="node11" href="$classSurgSim_1_1DataStructures_1_1NamedVariantData.html" title="A NamedData collection of variant data type. " alt="" coords="880,242,1052,283"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="241,492,322,519"/>
+<area shape="rect" id="node23" title="STL class. " alt="" coords="5,485,135,526"/>
+</map>

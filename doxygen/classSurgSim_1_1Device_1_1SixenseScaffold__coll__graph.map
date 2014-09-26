@@ -1,0 +1,7 @@
+<map id="SurgSim::Device::SixenseScaffold" name="SurgSim::Device::SixenseScaffold">
+<area shape="rect" id="node7" href="$classSurgSim_1_1Device_1_1SixenseThread.html" title="A class implementing the thread context for sampling Sixense devices. " alt="" coords="699,69,882,110"/>
+<area shape="rect" id="node3" href="$structSurgSim_1_1Device_1_1SixenseScaffold_1_1StateData.html" title="SurgSim::Device::Sixense\lScaffold::StateData" alt="" coords="1361,69,1544,110"/>
+<area shape="rect" id="node8" href="$classSurgSim_1_1Framework_1_1BasicThread.html" title="Basic thread implementation, tries to maintain a constant rate, supplies startup an initialization..." alt="" coords="387,78,537,119"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="184,85,265,112"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="5,78,135,119"/>
+</map>

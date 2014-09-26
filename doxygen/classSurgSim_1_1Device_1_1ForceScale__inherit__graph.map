@@ -1,0 +1,6 @@
+<map id="SurgSim::Device::ForceScale" name="SurgSim::Device::ForceScale">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Input_1_1CommonDevice.html" title="A class that implements some common management code on top of the DeviceInterface. " alt="" coords="271,5,491,32"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Input_1_1DeviceInterface.html" title="Interface used to communicate with user&#45;interface hardware devices. " alt="" coords="5,5,223,32"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Input_1_1InputConsumerInterface.html" title="Interface for a consumer that monitors device and signal state updates (pose, buttons, etc). " alt="" coords="273,57,489,98"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Input_1_1OutputProducerInterface.html" title="Interface for a producer that generates device output updates (forces, status LED state..." alt="" coords="271,122,490,163"/>
+</map>

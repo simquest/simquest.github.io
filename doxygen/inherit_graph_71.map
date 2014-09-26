@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSurgSim_1_1DataStructures_1_1Vertices.html" title="Base class for mesh structures, handling basic vertex functionality. " alt="" coords="5,93,177,134"/>
+<area shape="rect" id="node2" href="$classSurgSim_1_1DataStructures_1_1TetrahedronMesh.html" title="Basic class for storing Tetrahedron Meshes, handling basic vertex, edge, triangle and tetrahedron fun..." alt="" coords="225,5,527,61"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1DataStructures_1_1TriangleMeshBase.html" title="Basic class for storing Triangle Meshes, handling basic vertex, edge, and triangle functionality..." alt="" coords="261,85,491,141"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1DataStructures_1_1TriangleMeshBase.html" title="SurgSim::DataStructures\l::TriangleMeshBase\&lt; VertexData,\l SurgSim::DataStructures::EmptyData,\l SurgSim::DataStructures::EmptyData \&gt;" alt="" coords="245,166,507,237"/>
+<area shape="rect" id="node5" href="$classSurgSim_1_1Graphics_1_1Mesh.html" title="SurgSim::Graphics::Mesh" alt="" coords="575,188,753,215"/>
+</map>

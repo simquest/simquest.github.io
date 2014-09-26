@@ -1,0 +1,5 @@
+<map id="SurgSim::Device::NovintDevice" name="SurgSim::Device::NovintDevice">
+<area shape="rect" id="node2" href="$classSurgSim_1_1Device_1_1NovintCommonDevice.html" title="A class implementing the communication with a generic Novint Falcon device. " alt="" coords="5,155,233,196"/>
+<area shape="rect" id="node3" href="$classSurgSim_1_1Input_1_1CommonDevice.html" title="A class that implements some common management code on top of the DeviceInterface. " alt="" coords="9,80,229,107"/>
+<area shape="rect" id="node4" href="$classSurgSim_1_1Input_1_1DeviceInterface.html" title="Interface used to communicate with user&#45;interface hardware devices. " alt="" coords="11,5,228,32"/>
+</map>

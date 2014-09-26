@@ -1,0 +1,34 @@
+<map id="SurgSim/Physics/RigidRepresentationLocalization.cpp" name="SurgSim/Physics/RigidRepresentationLocalization.cpp">
+<area shape="rect" id="node2" href="$RigidRepresentationLocalization_8h.html" title="SurgSim/Physics/RigidRepresentation\lLocalization.h" alt="" coords="1419,95,1672,136"/>
+<area shape="rect" id="node3" href="$Localization_8h.html" title="SurgSim/Physics/Localization.h" alt="" coords="278,534,490,561"/>
+<area shape="rect" id="node5" href="$Vector_8h.html" title="Definitions of small fixed&#45;size vector types. " alt="" coords="808,623,968,650"/>
+<area shape="rect" id="node19" href="$RigidRepresentationBase_8h.html" title="SurgSim/Physics/RigidRepresentation\lBase.h" alt="" coords="1419,184,1672,225"/>
+<area shape="rect" id="node46" href="$RigidTransform_8h.html" title="Definitions of 2x2 and 3x3 rigid (isometric) transforms. " alt="" coords="2929,534,3143,561"/>
+<area shape="rect" id="node47" href="$Quaternion_8h.html" title="Definitions of quaternion types. " alt="" coords="3099,623,3290,650"/>
+<area shape="rect" id="node9" href="$Assert_8h.html" title="The header that provides the assertion API. " alt="" coords="978,705,1177,732"/>
+<area shape="rect" id="node10" href="$Logger_8h.html" title="SurgSim/Framework/Logger.h" alt="" coords="1031,959,1233,985"/>
+<area shape="rect" id="node17" href="$AssertMessage_8h.html" title="SurgSim/Framework/Assert\lMessage.h" alt="" coords="1177,780,1365,821"/>
+<area shape="rect" id="node11" href="$LoggerManager_8h.html" title="SurgSim/Framework/Logger\lManager.h" alt="" coords="1153,1033,1346,1075"/>
+<area shape="rect" id="node14" href="$LogOutput_8h.html" title="SurgSim/Framework/LogOutput.h" alt="" coords="904,1041,1128,1067"/>
+<area shape="rect" id="node18" href="$LogMessageBase_8h.html" title="SurgSim/Framework/LogMessage\lBase.h" alt="" coords="1359,869,1590,911"/>
+<area shape="rect" id="node20" href="$Location_8h.html" title="SurgSim/DataStructures\l/Location.h" alt="" coords="835,437,1003,479"/>
+<area shape="rect" id="node30" href="$Shape_8h.html" title="SurgSim/Math/Shape.h" alt="" coords="1419,445,1581,471"/>
+<area shape="rect" id="node43" href="$Physics_2Representation_8h.html" title="SurgSim/Physics/Representation.h" alt="" coords="2308,281,2540,307"/>
+<area shape="rect" id="node49" href="$RigidRepresentationState_8h.html" title="SurgSim/Physics/RigidRepresentation\lState.h" alt="" coords="1605,437,1859,479"/>
+<area shape="rect" id="node50" href="$RigidRepresentationBase-inl_8h.html" title="SurgSim/Physics/RigidRepresentation\lBase&#45;inl.h" alt="" coords="1255,273,1508,315"/>
+<area shape="rect" id="node21" href="$IndexedLocalCoordinate_8h.html" title="SurgSim/DataStructures\l/IndexedLocalCoordinate.h" alt="" coords="794,527,982,568"/>
+<area shape="rect" id="node22" href="$OctreeNode_8h.html" title="SurgSim/DataStructures\l/OctreeNode.h" alt="" coords="551,527,719,568"/>
+<area shape="rect" id="node29" href="$OptionalValue_8h.html" title="SurgSim/DataStructures\l/OptionalValue.h" alt="" coords="1108,527,1276,568"/>
+<area shape="rect" id="node25" href="$EmptyData_8h.html" title="SurgSim/DataStructures\l/EmptyData.h" alt="" coords="565,616,733,657"/>
+<area shape="rect" id="node26" href="$Asset_8h.html" title="SurgSim/Framework/Asset.h" alt="" coords="781,787,976,814"/>
+<area shape="rect" id="node27" href="$Aabb_8h.html" title="SurgSim/Math/Aabb.h" alt="" coords="387,623,541,650"/>
+<area shape="rect" id="node28" href="$OctreeNode-inl_8h.html" title="SurgSim/DataStructures\l/OctreeNode&#45;inl.h" alt="" coords="144,616,312,657"/>
+<area shape="rect" id="node31" href="$Accessible_8h.html" title="SurgSim/Framework/Accessible.h" alt="" coords="1463,534,1689,561"/>
+<area shape="rect" id="node34" href="$Matrix_8h.html" title="Definitions of small fixed&#45;size square matrix types. " alt="" coords="1149,623,1307,650"/>
+<area shape="rect" id="node37" href="$ObjectFactory_8h.html" title="SurgSim/Framework/Object\lFactory.h" alt="" coords="2499,527,2690,568"/>
+<area shape="rect" id="node36" href="$Accessible-inl_8h.html" title="SurgSim/Framework/Accessible\l&#45;inl.h" alt="" coords="1661,616,1878,657"/>
+<area shape="rect" id="node38" href="$Macros_8h.html" title="SurgSim/Framework/Macros.h" alt="" coords="2004,623,2209,650"/>
+<area shape="rect" id="node42" href="$ObjectFactory-inl_8h.html" title="SurgSim/Framework/Object\lFactory&#45;inl.h" alt="" coords="2234,616,2425,657"/>
+<area shape="rect" id="node44" href="$Framework_2Representation_8h.html" title="SurgSim/Framework/Representation.h" alt="" coords="2927,363,3180,389"/>
+<area shape="rect" id="node45" href="$Component_8h.html" title="SurgSim/Framework/Component.h" alt="" coords="3015,445,3247,471"/>
+</map>
