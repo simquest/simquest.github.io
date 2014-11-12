@@ -22,6 +22,14 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+iframe {
+	height: 1600px;
+	width:100%;
+	border=0;
+	margin=0;
+	padding=0;
+  width:650px;
+}
 
 /* Base text styles */
 
