@@ -1,24 +1,15 @@
 ---
 layout: default
 ---
-Welcome to the OpenSurgSim Project
+About
+=====
 
 OpenSurgSim is an open-source project dedicated to real-time surgical
 simulation. It offers an open framework that includes the necessary building
-blocks for surgical simulations, such as native device support, haptic feedback,
-graphics, discrete collision detection and physics simulation. OpenSurgSim is
-flexible. Developers can refactor the physics engine, swap models, ODE solvers,
-or linear system solvers. For current information and documentation about the
-project, please visit our website:
-
-    http://www.opensurgsim.org/
-
-Support can also be found on our public mailing list at
-opensurgsim@simquest.com. An archive of the mailing list is at:
-
-    http://groups.google.com/a/simquest.com/group/opensurgsim/
-
-To help get started using OpenSurgSim, use the following quick start guide:
+blocks for surgical simulations, such as native device support, haptic
+feedback, graphics, discrete collision detection and physics simulation.
+OpenSurgSim is flexible. Developers can refactor the physics engine, swap
+models, ODE solvers, or linear system solvers.
 
 
 Getting OpenSurgSim
@@ -103,24 +94,24 @@ Required Dependencies
 ---------------------
 
 * Boost  
-  Homepage: http://www.boost.org/  
+  Homepage: [www.boost.org](http://www.boost.org/)  
   Modules: chrono, date_time, filesystem, system, thread  
   Minimum Version: 1.54  
 
 * CMake  
-  Homepage: http://www.cmake.org/  
+  Homepage: [www.cmake.org](http://www.cmake.org/)  
   Minimum Version: 2.8  
 
 * Eigen  
-  Homepage: http://eigen.tuxfamily.org/  
+  Homepage: [eigen.tuxfamily.org](http://eigen.tuxfamily.org/)  
   Minimum Version: 3.2.0  
 
 * Git  
-  Homepage: http://www.git-scm.com/  
+  Homepage: [www.git-scm.com](http://www.git-scm.com/)  
   Minimum Version: 1.7.9  
 
 * OpenSceneGraph  
-  Homepage: http://www.openscenegraph.org/  
+  Homepage: [www.openscenegraph.org](http://www.openscenegraph.org/)  
   Modules: osg, osgViewer, osgText, osgUtil, osgDB, osgGA, osgAnimation  
   Minimum Version: 3.2.0  
 
@@ -128,18 +119,18 @@ Optional Dependencies
 ---------------------
 
 * Doxygen  
-  Homepage: http://doxygen.org/  
+  Homepage: [doxygen.org](http://doxygen.org/)  
   Minimum Version: 1.8  
 
 * FreeGlut  
-  Homepage: http://freeglut.sourceforge.net/  
+  Homepage: [freeglut.sourceforge.net](http://freeglut.sourceforge.net/)  
   Minimum Version: 2.6.0  
 
 * Google Mock  
-  Homepage: https://code.google.com/p/googlemock/  
+  Homepage: [code.google.com/p/googlemock/](https://code.google.com/p/googlemock/)  
   Minimum Version: 1.7.0  
 
 * MathJax  
-  Homepage: http://www.mathjax.org/  
+  Homepage: [www.mathjax.org](http://www.mathjax.org/)  
   Minimum Version: 2.4
 

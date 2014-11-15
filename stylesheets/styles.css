@@ -216,9 +216,16 @@ td {
 #sidebar{
 	display:inline;
 	float:left;
-	margin-left:10px;
+	margin-top:50px;
 	margin-right:10px;
+	margin-left:10px;
 	width:260px;
+}
+
+#sidebar p{
+    color: #888;
+	font-size: 0.9em;
+    font-style: italic;
 }
 
 #sidebar ul a{
@@ -235,7 +242,7 @@ a.name {
 
 #sidebar ul {
   list-style:none;
-  padding-left:25px;
+  padding-left:55px;
 }
 
 #sidebar li {
