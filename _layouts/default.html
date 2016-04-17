@@ -1,58 +1,76 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>OpenSurgSim</title>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	  ga('create', 'UA-61704076-1', 'auto');
-	  ga('send', 'pageview');
-    </script>
-  </head>
+  <title>{{ page.title }}</title>
 
-  <body>
-  <div class="container">
+  <link rel="stylesheet" type="text/css" class="ui" href="http://oss.maxcdn.com/semantic-ui/2.1.6/semantic.min.css">
+  <link rel="stylesheet" type="text/css" class="ui" href="static/custom.css">
 
-	<div id="header">
-			<a href="http://opensurgsim.org/"><img src="images/OSS-logo.png" width=300px></a>
-		<nav id="access">
-			<div class="menu"><ul>
-                    <li class="page_item"><a href="http://open.cdash.org/index.php?project=OpenSurgSim">Dashboard</a></li>
-                    <li class="page_item"><a href="doxygen/index.html">Documentation</a></li>
-                    <li class="page_item"><a href="http://groups.google.com/a/simquest.com/group/opensurgsim/?hl=en">Mailing List</a></li>
-                    <li class="page_item"><a href="https://www.assembla.com/spaces/OpenSurgSim/wiki">Wiki</a></li>
-            </ul></div>
-		</nav>
-    <hr>
-	</div>	
-	
-	<div id="content">
-		{{ content }}
-	</div>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://oss.maxcdn.com/semantic-ui/2.1.6/semantic.min.js"></script>
+  <script src="static/custom.js"></script>
 
-    <div id="sidebar">
-        <ul>
-          <li class="download"><a class="buttons download" href="https://github.com/simquest/opensurgsim/archive/v0.6.0.zip">Download ZIP</a></li>
-          <li class="download"><a class="buttons download" href="https://github.com/simquest/opensurgsim/archive/v0.6.0.tar.gz">Download TAR</a></li>
-          <li><a class="buttons github" href="https://github.com/simquest/opensurgsim">View On GitHub</a></li>
-        </ul>
-        <p><small>This project is maintained by <a href="http://www.simquest.com/">SimQuest Solutions Inc</a>
-            and sponsored by the US Army Telemedicine & Advanced Technology Research Center (<a href="http://www.tatrc.org/">TATRC</a>).
-        </small></p>
-    </div>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+    ga('create', 'UA-61704076-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</head>
+<body>
+
+<!-- Following Menu -->
+<div class="ui large top fixed menu">
+  <div class="ui container">
+  {% for item in site.navigation %}
+    {% assign class = nil %}
+    {% if page.url contains item.url %}
+      {% assign class = 'active' %}
+    {% endif %}
+    <a href="{{ item.url }}" class="{{ class }} item">{{ item.title }}</a>
+  {% endfor %}
   </div>
-  </body>
+</div>
+
+{{ content }}
+
+<div class="ui inverted vertical footer segment">
+  <div class="ui container">
+    <div class="ui stackable inverted divided equal height stackable grid">
+      <div class="three wide column">
+        <h4 class="ui inverted header">About</h4>
+        <div class="ui inverted link list">
+          <a href="https://github.com/simquest/opensurgsim" class="item">Fork on GitHub</a>
+          <a class="item" href="http://open.cdash.org/index.php?project=OpenSurgSim">Dashboard</a>
+          <a class="item" href="https://www.assembla.com/spaces/OpenSurgSim/wiki">Wiki</a>
+        </div>
+      </div>
+      <div class="three wide column">
+        <h4 class="ui inverted header">Support</h4>
+        <div class="ui inverted link list">
+          <a class="item" href=#>Chat</a>
+          <a class="item" href="http://groups.google.com/a/simquest.com/group/opensurgsim/?hl=en">Mailing List</a>
+          <a class="item" href="https://github.com/simquest/opensurgsim/issues">Issues</a>
+        </div>
+      </div>
+      <div class="seven wide column">
+        <h4 class="ui inverted header">Acknoledgements</h4>
+        <p>
+          This project is maintained by <a href="http://www.simquest.com/">SimQuest Solutions Inc</a>
+          and sponsored by the US Army Telemedicine and Advanced Technology Research Center
+          (<a href="http://www.tatrc.org/">TATRC</a>).
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
 </html>

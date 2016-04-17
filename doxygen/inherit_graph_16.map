@@ -1,3 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSurgSim_1_1DataStructures_1_1BufferedValue.html" title="BufferedValue is a class to enable a representation of two values for one variable, where both values need to be accessible at the same time, one in a thread safe, single threaded context, the other in a thread unsafe context. " alt="" coords="5,5,177,47"/>
-</map>

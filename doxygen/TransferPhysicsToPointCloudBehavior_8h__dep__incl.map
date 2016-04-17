@@ -1,9 +1,0 @@
-<map id="SurgSim/Blocks/TransferPhysicsToPointCloudBehavior.h" name="SurgSim/Blocks/TransferPhysicsToPointCloudBehavior.h">
-<area shape="rect" id="node2" href="$TransferPhysicsToPointCloudBehavior_8cpp.html" title="SurgSim/Blocks/TransferPhysics\lToPointCloudBehavior.cpp" alt="" coords="5,95,228,136"/>
-<area shape="rect" id="node3" href="$Fem3DMeshRenderTest_8cpp.html" title="SurgSim/Physics/RenderTests\l/Fem3DMeshRenderTest.cpp" alt="" coords="252,95,461,136"/>
-<area shape="rect" id="node4" href="$RenderTestFem1D_8cpp.html" title="render test for Fem1D " alt="" coords="485,95,695,136"/>
-<area shape="rect" id="node5" href="$RenderTestFem2D_8cpp.html" title="render test for Fem2D " alt="" coords="719,95,928,136"/>
-<area shape="rect" id="node6" href="$RenderTestFem3D_8cpp.html" title="render test for Fem3D " alt="" coords="952,95,1161,136"/>
-<area shape="rect" id="node7" href="$RenderTestFem3DCorotational_8cpp.html" title="render test for Fem3D with corotational elements " alt="" coords="1186,95,1429,136"/>
-<area shape="rect" id="node8" href="$RenderTestMassSprings_8cpp.html" title="render test for MassSprings " alt="" coords="1453,95,1663,136"/>
-</map>

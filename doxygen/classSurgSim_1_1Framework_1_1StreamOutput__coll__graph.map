@@ -1,7 +1,0 @@
-<map id="SurgSim::Framework::StreamOutput" name="SurgSim::Framework::StreamOutput">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1LogOutput.html" title="Virtual Base class to define an interface for outputting logging information. " alt="" coords="5,248,156,289"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="180,255,277,282"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="160,157,297,199"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="149,81,308,108"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="177,5,281,32"/>
-</map>

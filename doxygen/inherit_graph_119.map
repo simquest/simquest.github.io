@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSurgSim_1_1Framework_1_1LogMessageBase.html" title="LogMessageBase is a base class to be used to customize messages for logging textual information can b..." alt="" coords="5,39,156,80"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1AssertMessage.html" title="An internal message class used for assertion failures. " alt="" coords="204,5,355,47"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1LogMessage.html" title="Specialization, handles flush on destruction. " alt="" coords="204,71,355,112"/>
-</map>

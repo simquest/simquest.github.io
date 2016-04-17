@@ -1,6 +1,0 @@
-<map id="SurgSim::Graphics::OsgUniform&lt; std::vector&lt; T &gt; &gt;" name="SurgSim::Graphics::OsgUniform&lt; std::vector&lt; T &gt; &gt;">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1Uniform_3_01std_1_1vector_3_01T_01_4_01_4.html" title="Specialization of Uniform for vectors of values. " alt="" coords="5,184,151,240"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1UniformBase.html" title="Common base class for all graphics uniforms. " alt="" coords="89,95,235,136"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Graphics_1_1OsgUniformBase.html" title="Base OSG implementation of graphics uniforms. " alt="" coords="175,191,320,233"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="87,5,237,47"/>
-</map>

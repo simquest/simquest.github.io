@@ -1,9 +1,0 @@
-<map id="SurgSim::Framework::ComponentManager" name="SurgSim::Framework::ComponentManager">
-<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1BehaviorManager.html" title="Manager to handle Behaviors. " alt="" coords="437,5,588,47"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Graphics_1_1Manager.html" title="Basic graphics manager class which manages graphics components to provide a visualization of the scen..." alt="" coords="440,71,585,112"/>
-<area shape="rect" id="node6" href="$classSurgSim_1_1Input_1_1InputManager.html" title="Manager to handle InputComponent and OutputComponent, SceneElement can add these to get input from de..." alt="" coords="409,137,616,163"/>
-<area shape="rect" id="node7" href="$classSurgSim_1_1Physics_1_1PhysicsManager.html" title="PhyicsManager handles the physics and motion calculation, it uses Computations to separate the algori..." alt="" coords="421,188,605,229"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1BasicThread.html" title="Basic thread implementation, tries to maintain a constant rate, supplies startup an initialization..." alt="" coords="5,100,156,141"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Graphics_1_1OsgManager.html" title="OSG&#45;based implementation of graphics manager class. " alt="" coords="700,71,845,112"/>
-<area shape="rect" id="node8" href="$classSurgSim_1_1Testing_1_1MockPhysicsManager.html" title="Testing class used to publicly expose PhysicsManager&#39;s protected member functions. " alt="" coords="664,188,881,229"/>
-</map>

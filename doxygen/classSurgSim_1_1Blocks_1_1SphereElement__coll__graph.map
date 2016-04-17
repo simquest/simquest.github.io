@@ -1,7 +1,0 @@
-<map id="SurgSim::Blocks::SphereElement" name="SurgSim::Blocks::SphereElement">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="1460,193,1611,235"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Framework_1_1Scene.html" title="Scene. Basic Container for SceneElements. " alt="" coords="852,93,1003,135"/>
-<area shape="rect" id="node9" href="$classSurgSim_1_1Framework_1_1Runtime.html" title="This class contains all the information about the runtime environment of the simulation, all the running threads, the state, while it is de facto a singleton it should be passed around if needed. " alt="" coords="323,157,473,199"/>
-<area shape="rect" id="node13" title="STL class. " alt="" coords="887,310,968,337"/>
-<area shape="rect" id="node14" title="STL class. " alt="" coords="569,303,698,344"/>
-</map>

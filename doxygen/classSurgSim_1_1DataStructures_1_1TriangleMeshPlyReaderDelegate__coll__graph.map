@@ -1,5 +1,0 @@
-<map id="SurgSim::DataStructures::TriangleMeshPlyReaderDelegate&lt; M &gt;" name="SurgSim::DataStructures::TriangleMeshPlyReaderDelegate&lt; M &gt;">
-<area shape="rect" id="node2" href="$classSurgSim_1_1DataStructures_1_1PlyReaderDelegate.html" title="PlyReaderDelegate abstract class. " alt="" coords="37,5,209,47"/>
-<area shape="rect" id="node3" href="$structSurgSim_1_1DataStructures_1_1TriangleMeshPlyReaderDelegate_1_1FaceData.html" title="Internal structure, the received for data from the &quot;face&quot; element. " alt="" coords="5,70,240,126"/>
-<area shape="rect" id="node4" href="$structSurgSim_1_1DataStructures_1_1TriangleMeshPlyReaderDelegate_1_1VertexData.html" title="Internal structure, the receiver for data from the &quot;vertex&quot; element Provide space for standard ply ve..." alt="" coords="5,150,240,206"/>
-</map>

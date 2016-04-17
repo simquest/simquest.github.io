@@ -1,8 +1,0 @@
-<map id="SurgSim/Physics/RigidRepresentationLocalization.h" name="SurgSim/Physics/RigidRepresentationLocalization.h">
-<area shape="rect" id="node2" href="$RigidRepresentation_8cpp.html" title="SurgSim/Physics/RigidRepresentation.cpp" alt="" coords="5,102,284,129"/>
-<area shape="rect" id="node3" href="$RigidRepresentationBase_8cpp.html" title="SurgSim/Physics/RigidRepresentation\lBase.cpp" alt="" coords="309,95,562,136"/>
-<area shape="rect" id="node4" href="$RigidRepresentationBilateral3D_8cpp.html" title="SurgSim/Physics/RigidRepresentation\lBilateral3D.cpp" alt="" coords="586,95,839,136"/>
-<area shape="rect" id="node5" href="$RigidRepresentationContact_8cpp.html" title="SurgSim/Physics/RigidRepresentation\lContact.cpp" alt="" coords="863,95,1117,136"/>
-<area shape="rect" id="node6" href="$RigidRepresentationLocalization_8cpp.html" title="SurgSim/Physics/RigidRepresentation\lLocalization.cpp" alt="" coords="1141,95,1394,136"/>
-<area shape="rect" id="node7" href="$VirtualToolCoupler_8cpp.html" title="SurgSim/Physics/VirtualTool\lCoupler.cpp" alt="" coords="1419,95,1615,136"/>
-</map>

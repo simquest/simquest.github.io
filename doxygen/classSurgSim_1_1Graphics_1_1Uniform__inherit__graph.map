@@ -1,5 +1,0 @@
-<map id="SurgSim::Graphics::Uniform&lt; T &gt;" name="SurgSim::Graphics::Uniform&lt; T &gt;">
-<area shape="rect" id="node4" href="$classSurgSim_1_1Graphics_1_1OsgUniform.html" title="OSG implementation of graphics uniform with a value of type T. " alt="" coords="8,273,153,315"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1UniformBase.html" title="Common base class for all graphics uniforms. " alt="" coords="8,95,153,136"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="5,5,156,47"/>
-</map>

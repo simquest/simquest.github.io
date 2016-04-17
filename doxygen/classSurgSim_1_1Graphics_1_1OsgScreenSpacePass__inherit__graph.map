@@ -1,4 +1,0 @@
-<map id="SurgSim::Graphics::OsgScreenSpacePass" name="SurgSim::Graphics::OsgScreenSpacePass">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1RenderPass.html" title="Encapsulation of all the components necessary needed to implement a full renderpass, this SceneElement contains a Camera and Group, it can also take a Material (for shaders and uniforms) and a RenderTarget for textures that are used as the output for the camera. " alt="" coords="30,184,175,225"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="27,95,178,136"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSurgSim_1_1Graphics_1_1RenderTarget.html" title="RenderTarget is an abstraction of the target buffers that a Camera should use to render it&#39;s scene va..." alt="" coords="5,5,151,47"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1OsgAbstractRenderTarget.html" title="Osg abstract render target, this hides the type of the actual osg texture and lets us use OsgRenderTa..." alt="" coords="199,5,381,47"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1OsgRenderTarget.html" title="Specific implementation of the render target class. " alt="" coords="429,5,597,47"/>
-</map>

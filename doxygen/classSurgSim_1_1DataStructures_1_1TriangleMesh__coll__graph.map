@@ -1,9 +1,0 @@
-<map id="SurgSim::DataStructures::TriangleMesh" name="SurgSim::DataStructures::TriangleMesh">
-<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1Asset.html" title="This class is used to facilitate file loading. " alt="" coords="1005,71,1155,112"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="660,58,741,85"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="316,48,445,89"/>
-<area shape="rect" id="node6" href="$classSurgSim_1_1DataStructures_1_1TriangleMeshBase.html" title="SurgSim::DataStructures\l::TriangleMeshBase\&lt; EmptyData,\l EmptyData, NormalData \&gt;" alt="" coords="965,157,1195,213"/>
-<area shape="rect" id="node7" href="$classSurgSim_1_1DataStructures_1_1Vertices.html" title="SurgSim::DataStructures\l::Vertices\&lt; EmptyData \&gt;" alt="" coords="615,113,787,155"/>
-<area shape="rect" id="node9" href="$structSurgSim_1_1DataStructures_1_1Vertex.html" title="Vertex structure for meshes. " alt="" coords="5,113,177,155"/>
-<area shape="rect" id="node11" href="$structSurgSim_1_1DataStructures_1_1MeshElement.html" title="Element structure for meshes. " alt="" coords="289,179,472,220"/>
-</map>

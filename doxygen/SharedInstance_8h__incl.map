@@ -1,9 +1,0 @@
-<map id="SurgSim/Framework/SharedInstance.h" name="SurgSim/Framework/SharedInstance.h">
-<area shape="rect" id="node6" href="$Assert_8h.html" title="The header that provides the assertion API. " alt="" coords="383,184,582,211"/>
-<area shape="rect" id="node18" href="$SharedInstance-inl_8h.html" title="SurgSim/Framework/Shared\lInstance&#45;inl.h" alt="" coords="249,95,444,136"/>
-<area shape="rect" id="node7" href="$Logger_8h.html" title="SurgSim/Framework/Logger.h" alt="" coords="381,437,584,464"/>
-<area shape="rect" id="node13" href="$AssertMessage_8h.html" title="SurgSim/Framework/Assert\lMessage.h" alt="" coords="593,259,781,300"/>
-<area shape="rect" id="node8" href="$LoggerManager_8h.html" title="SurgSim/Framework/Logger\lManager.h" alt="" coords="382,512,575,553"/>
-<area shape="rect" id="node10" href="$LogOutput_8h.html" title="SurgSim/Framework/LogOutput.h" alt="" coords="600,519,824,546"/>
-<area shape="rect" id="node14" href="$LogMessageBase_8h.html" title="SurgSim/Framework/LogMessage\lBase.h" alt="" coords="571,348,802,389"/>
-</map>

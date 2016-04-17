@@ -1,5 +1,0 @@
-<map id="SurgSim::Device::WdkHidDeviceHandle" name="SurgSim::Device::WdkHidDeviceHandle">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Device_1_1SystemInputDeviceHandle.html" title="A wrapper for system&#45;dependent access to an input/HID device. " alt="" coords="594,5,803,47"/>
-<area shape="rect" id="node4" href="$structSurgSim_1_1Device_1_1WdkHidDeviceHandle_1_1State.html" title="SurgSim::Device::WdkHidDevice\lHandle::State" alt="" coords="299,77,523,119"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Device_1_1FileHandle.html" title="A wrapper for an Windows&#45;style HANDLE file descriptor. " alt="" coords="5,85,204,111"/>
-</map>

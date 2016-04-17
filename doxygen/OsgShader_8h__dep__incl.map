@@ -1,9 +1,0 @@
-<map id="SurgSim/Graphics/OsgShader.h" name="SurgSim/Graphics/OsgShader.h">
-<area shape="rect" id="node2" href="$SphereElement_8cpp.html" title="SurgSim/Blocks/SphereElement.cpp" alt="" coords="5,87,248,114"/>
-<area shape="rect" id="node3" href="$OsgMaterial_8cpp.html" title="SurgSim/Graphics/OsgMaterial.cpp" alt="" coords="272,87,509,114"/>
-<area shape="rect" id="node4" href="$OsgScreenSpaceQuadRepresentation_8cpp.html" title="SurgSim/Graphics/OsgScreen\lSpaceQuadRepresentation.cpp" alt="" coords="533,80,749,121"/>
-<area shape="rect" id="node5" href="$OsgShader_8cpp.html" title="SurgSim/Graphics/OsgShader.cpp" alt="" coords="774,87,1007,114"/>
-<area shape="rect" id="node6" href="$OsgCameraRenderTests_8cpp.html" title="SurgSim/Graphics/RenderTests\l/OsgCameraRenderTests.cpp" alt="" coords="1031,80,1249,121"/>
-<area shape="rect" id="node7" href="$OsgMeshRepresentationRenderTests_8cpp.html" title="SurgSim/Graphics/RenderTests\l/OsgMeshRepresentationRenderTests.cpp" alt="" coords="1273,80,1557,121"/>
-<area shape="rect" id="node8" href="$OsgShaderRenderTests_8cpp.html" title="Render Tests for the OsgShader class. " alt="" coords="1581,80,1798,121"/>
-</map>

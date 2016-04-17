@@ -1,6 +1,0 @@
-<map id="SurgSim::Graphics::Mesh" name="SurgSim::Graphics::Mesh">
-<area shape="rect" id="node2" href="$classSurgSim_1_1DataStructures_1_1TriangleMeshBase.html" title="SurgSim::DataStructures\l::TriangleMeshBase\&lt; VertexData,\l SurgSim::DataStructures::EmptyData,\l SurgSim::DataStructures::EmptyData \&gt;" alt="" coords="965,56,1228,127"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1DataStructures_1_1Vertices.html" title="Base class for mesh structures, handling basic vertex functionality. " alt="" coords="615,5,787,47"/>
-<area shape="rect" id="node5" href="$structSurgSim_1_1DataStructures_1_1Vertex.html" title="Vertex structure for meshes. " alt="" coords="5,5,177,47"/>
-<area shape="rect" id="node7" href="$structSurgSim_1_1DataStructures_1_1MeshElement.html" title="Element structure for meshes. " alt="" coords="289,71,472,112"/>
-</map>

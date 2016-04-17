@@ -1,6 +1,0 @@
-<map id="GlutRenderObject" name="GlutRenderObject">
-<area shape="rect" id="node2" href="$structGlutAxes.html" title="Axes with center at local origin, red axis along the local X&#45;axis, green axis along the local Y&#45;axis..." alt="" coords="5,80,84,107"/>
-<area shape="rect" id="node3" href="$structGlutGroup.html" title="Group of objects which provides a transform hierarchy. " alt="" coords="108,80,195,107"/>
-<area shape="rect" id="node4" href="$structGlutSphere.html" title="Sphere with center at local origin. " alt="" coords="219,80,310,107"/>
-<area shape="rect" id="node5" href="$structGlutSquare.html" title="Square with center at local origin. " alt="" coords="335,80,427,107"/>
-</map>

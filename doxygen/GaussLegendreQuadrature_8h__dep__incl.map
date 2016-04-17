@@ -1,9 +1,0 @@
-<map id="SurgSim/Math/GaussLegendreQuadrature.h" name="SurgSim/Math/GaussLegendreQuadrature.h">
-<area shape="rect" id="node2" href="$GaussLegendreQuadrature_8cpp.html" title="SurgSim/Math/GaussLegendre\lQuadrature.cpp" alt="" coords="242,95,453,136"/>
-<area shape="rect" id="node3" href="$Fem3DElementCube_8h.html" title="SurgSim/Physics/Fem3DElement\lCube.h" alt="" coords="476,95,699,136"/>
-<area shape="rect" id="node4" href="$Fem3DElementCube_8cpp.html" title="SurgSim/Physics/Fem3DElement\lCube.cpp" alt="" coords="5,184,228,225"/>
-<area shape="rect" id="node5" href="$Fem3DPlyReaderDelegate_8cpp.html" title="SurgSim/Physics/Fem3DPly\lReaderDelegate.cpp" alt="" coords="253,184,445,225"/>
-<area shape="rect" id="node6" href="$Fem3DPerformanceTest_8cpp.html" title="SurgSim/Physics/Performance\lTests/Fem3DPerformanceTest.cpp" alt="" coords="469,184,706,225"/>
-<area shape="rect" id="node7" href="$Fem3DvsTruthCubeRenderTest_8cpp.html" title="SurgSim/Physics/RenderTests\l/Fem3DvsTruthCubeRenderTest.cpp" alt="" coords="729,184,979,225"/>
-<area shape="rect" id="node8" href="$RenderTestFem3D_8cpp.html" title="render test for Fem3D " alt="" coords="1003,184,1212,225"/>
-</map>

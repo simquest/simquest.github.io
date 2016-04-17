@@ -1,8 +1,0 @@
-<map id="SurgSim/Physics/Fem3DElementTetrahedron.h" name="SurgSim/Physics/Fem3DElementTetrahedron.h">
-<area shape="rect" id="node2" href="$Fem3DElementCorotationalTetrahedron_8h.html" title="SurgSim/Physics/Fem3DElement\lCorotationalTetrahedron.h" alt="" coords="133,95,356,136"/>
-<area shape="rect" id="node5" href="$Fem3DElementTetrahedron_8cpp.html" title="SurgSim/Physics/Fem3DElement\lTetrahedron.cpp" alt="" coords="380,95,603,136"/>
-<area shape="rect" id="node6" href="$Fem3DPlyReaderDelegate_8cpp.html" title="SurgSim/Physics/Fem3DPly\lReaderDelegate.cpp" alt="" coords="627,95,819,136"/>
-<area shape="rect" id="node7" href="$RenderTestFem3D_8cpp.html" title="render test for Fem3D " alt="" coords="844,95,1053,136"/>
-<area shape="rect" id="node3" href="$Fem3DElementCorotationalTetrahedron_8cpp.html" title="SurgSim/Physics/Fem3DElement\lCorotationalTetrahedron.cpp" alt="" coords="5,184,228,225"/>
-<area shape="rect" id="node4" href="$RenderTestFem3DCorotational_8cpp.html" title="render test for Fem3D with corotational elements " alt="" coords="253,184,495,225"/>
-</map>

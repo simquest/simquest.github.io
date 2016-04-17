@@ -1,7 +1,0 @@
-<map id="SurgSim/Graphics/Light.h" name="SurgSim/Graphics/Light.h">
-<area shape="rect" id="node2" href="$Manager_8cpp.html" title="SurgSim/Graphics/Manager.cpp" alt="" coords="45,80,263,107"/>
-<area shape="rect" id="node3" href="$OsgLight_8h.html" title="SurgSim/Graphics/OsgLight.h" alt="" coords="288,80,489,107"/>
-<area shape="rect" id="node4" href="$OsgLight_8cpp.html" title="SurgSim/Graphics/OsgLight.cpp" alt="" coords="5,162,223,189"/>
-<area shape="rect" id="node5" href="$OsgMeshRepresentationRenderTests_8cpp.html" title="SurgSim/Graphics/RenderTests\l/OsgMeshRepresentationRenderTests.cpp" alt="" coords="247,155,531,196"/>
-<area shape="rect" id="node6" href="$OsgShaderRenderTests_8cpp.html" title="Render Tests for the OsgShader class. " alt="" coords="555,155,772,196"/>
-</map>

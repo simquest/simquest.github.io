@@ -1,9 +1,0 @@
-<map id="SurgSim::Input::OutputProducerInterface" name="SurgSim::Input::OutputProducerInterface">
-<area shape="rect" id="node2" href="$classLabJackToPoseFilter.html" title="LabJackToPoseFilter" alt="" coords="309,5,463,32"/>
-<area shape="rect" id="node3" href="$classMovingSquareForce.html" title="A simple listener to calculate collision force against a square area for the example application..." alt="" coords="313,56,459,83"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Device_1_1ForceScale.html" title="An output device filter that scales forces and/or torques. " alt="" coords="285,107,487,133"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Device_1_1PoseIntegrator.html" title="A device filter that integrates the pose, turning a relative device into an absolute one..." alt="" coords="275,157,497,184"/>
-<area shape="rect" id="node6" href="$classSurgSim_1_1Device_1_1PoseTransform.html" title="A device filter that transforms the input pose. " alt="" coords="272,208,500,235"/>
-<area shape="rect" id="node7" href="$classSurgSim_1_1Input_1_1OutputProducer.html" title="An output producer sends data to a device. " alt="" coords="277,259,495,285"/>
-<area shape="rect" id="node8" href="$structSurgSim_1_1Testing_1_1MockInputOutput.html" title="SurgSim::Testing::MockInput\lOutput" alt="" coords="285,310,487,351"/>
-</map>

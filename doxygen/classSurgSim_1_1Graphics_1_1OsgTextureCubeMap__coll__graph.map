@@ -1,4 +1,0 @@
-<map id="SurgSim::Graphics::OsgTextureCubeMap" name="SurgSim::Graphics::OsgTextureCubeMap">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1OsgTexture.html" title="Base class for OSG implementations of Graphics Textures. " alt="" coords="11,95,157,136"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1Texture.html" title="Base class defining the interface for a Graphics Texture. " alt="" coords="11,5,157,47"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="SurgSim::Math::OdeSolverLinearRungeKutta4" name="SurgSim::Math::OdeSolverLinearRungeKutta4">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Math_1_1OdeSolverRungeKutta4.html" title="Runge Kutta 4 ode solver See http://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods. " alt="" coords="855,61,1040,102"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Math_1_1OdeSolver.html" title="Base class for all solvers of ode equation of order 2 of the form M(x(t), v(t)).a(t) = f(t..." alt="" coords="547,28,732,55"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Math_1_1OdeEquation.html" title="Ode equation of 2nd order of the form M(x,v).a = F(x, v) with (x0, v0) for initial conditions and a s..." alt="" coords="184,5,384,32"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="243,56,325,83"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="5,49,135,90"/>
-<area shape="rect" id="node7" href="$structSurgSim_1_1Math_1_1OdeSolverRungeKutta4_1_1RungeKuttaDerivedState.html" title="Internal structure to hold the 4 temporary evaluations. " alt="" coords="509,99,769,141"/>
-</map>

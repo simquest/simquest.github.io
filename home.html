@@ -1,0 +1,78 @@
+---
+layout: default
+title: OpenSurgSim - Home
+---
+<div class="ui inverted vertical masthead center aligned segment landing-image">
+  <div class="ui container">
+    <div class="ui large secondary inverted pointing menu">
+      {% for item in site.navigation %}
+        {% assign class = nil %}
+        {% if page.url contains item.url %}
+          {% assign class = 'active' %}
+        {% endif %}
+        <a href="{{ item.url }}" class="{{ class }} item">{{ item.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="ui text container">
+    <h1 class="ui inverted header">OpenSurgSim</h1>
+    <h2>C++ toolkit for developing real-time surgical simulations</h2>
+    <a class="ui huge primary button">Get Started<i class="right arrow icon"></i></a>
+  </div>
+
+</div>
+
+<div class="ui vertical stripe segment">
+  <div class="ui middle aligned stackable grid container">
+    <div class="row">
+      <div class="eight wide column">
+        <h3 class="ui header">Make Surgical Simulations Easily</h3>
+        <p>OpenSurgSim is an open framework that includes the necessary building
+        blocks for surgical simulations, including, physics simulation, graphics,
+        collision detection, and metrics collection.</p>
+        <h3 class="ui header">Built in Support for Devices</h3>
+        <p>A growing number of devices are supported out the box. Haptic devices,
+        hand trackers, 3d mice, virtual reality displays, and tracking systems.</p>
+        <h3 class="ui header">Built in Support for Devices</h3>
+        <p>A growing number of devices are supported out the box. Haptic devices,
+        hand trackers, 3d mice, virtual reality displays, and tracking systems.</p>
+      </div>
+      <div class="six wide right floated column">
+        <img src="static/background.png" class="ui large bordered rounded image">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="ui vertical stripe quote segment">
+  <div class="ui equal width stackable internally celled grid">
+    <div class="center aligned row">
+      <div class="column">
+        <img src="http://i.onionstatic.com/onion/1032/1/1x1/150.jpg" class="ui avatar image tiny">
+        <h3>"I doubt any VR experience can truly capture the horrifying condition of my body."</h3>
+        <p><b>Marco Baker</b> Systems Analyst</p>
+      </div>
+      <div class="column">
+        <img src="http://i.onionstatic.com/onion/1031/8/1x1/150.jpg" class="ui avatar image tiny">
+        <h3>"We must first consider the ethics of practicing surgery with systems that might be better used for simulating roller coasters."</h3>
+        <p><b>Henry Walls</b> Grain Historian</p>
+      </div>
+      <div class="column">
+        <img src="http://i.onionstatic.com/onion/1031/7/1x1/150.jpg" class="ui avatar image tiny"> 
+        <h3>"If you really want to learn the trade, there’s no substitute for plunging your hand into a warm human body!"</h3>
+        <p><b>Regina Wolfram</b> Suggestion Aggregator</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="ui vertical stripe segment">
+  <div class="ui text container">
+    <h3 class="ui header">Get Started Now</h3>
+    <p>Some text telling the user what to do to get going, like install OpenSurgSim and go through the
+    examples. Also, see the growing list of simulators that use OpenSurgSim in the gallery.</p>
+    <a class="ui large button">Install OpenSurgSim</a>
+  </div>
+</div>

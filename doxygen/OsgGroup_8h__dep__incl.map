@@ -1,9 +1,0 @@
-<map id="SurgSim/Graphics/OsgGroup.h" name="SurgSim/Graphics/OsgGroup.h">
-<area shape="rect" id="node2" href="$OsgCamera_8cpp.html" title="SurgSim/Graphics/OsgCamera.cpp" alt="" coords="5,87,244,114"/>
-<area shape="rect" id="node3" href="$OsgGroup_8cpp.html" title="SurgSim/Graphics/OsgGroup.cpp" alt="" coords="268,87,496,114"/>
-<area shape="rect" id="node4" href="$OsgLight_8cpp.html" title="SurgSim/Graphics/OsgLight.cpp" alt="" coords="520,87,737,114"/>
-<area shape="rect" id="node5" href="$OsgManager_8cpp.html" title="SurgSim/Graphics/OsgManager.cpp" alt="" coords="761,87,1005,114"/>
-<area shape="rect" id="node6" href="$RenderPass_8cpp.html" title="SurgSim/Graphics/RenderPass.cpp" alt="" coords="1029,87,1268,114"/>
-<area shape="rect" id="node7" href="$OsgCameraRenderTests_8cpp.html" title="SurgSim/Graphics/RenderTests\l/OsgCameraRenderTests.cpp" alt="" coords="1292,80,1509,121"/>
-<area shape="rect" id="node8" href="$OsgScreenSpaceQuadRenderTests_8cpp.html" title="SurgSim/Graphics/RenderTests\l/OsgScreenSpaceQuadRenderTests.cpp" alt="" coords="1534,80,1811,121"/>
-</map>

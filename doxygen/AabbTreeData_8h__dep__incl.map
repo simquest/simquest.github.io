@@ -1,8 +1,0 @@
-<map id="SurgSim/DataStructures/AabbTreeData.h" name="SurgSim/DataStructures/AabbTreeData.h">
-<area shape="rect" id="node2" href="$AabbTreeData_8cpp.html" title="SurgSim/DataStructures\l/AabbTreeData.cpp" alt="" coords="5,95,173,136"/>
-<area shape="rect" id="node3" href="$AabbTreeNode_8cpp.html" title="SurgSim/DataStructures\l/AabbTreeNode.cpp" alt="" coords="73,184,241,225"/>
-<area shape="rect" id="node4" href="$AabbTreeNode_8h.html" title="SurgSim/DataStructures\l/AabbTreeNode.h" alt="" coords="301,95,469,136"/>
-<area shape="rect" id="node5" href="$TriangleMeshTriangleMeshDcdContact_8cpp.html" title="SurgSim/Collision/Triangle\lMeshTriangleMeshDcdContact.cpp" alt="" coords="266,184,505,225"/>
-<area shape="rect" id="node6" href="$AabbTree_8cpp.html" title="SurgSim/DataStructures\l/AabbTree.cpp" alt="" coords="529,184,697,225"/>
-<area shape="rect" id="node7" href="$AabbTreeIntersectionVisitor_8cpp.html" title="SurgSim/DataStructures\l/AabbTreeIntersectionVisitor.cpp" alt="" coords="722,184,945,225"/>
-</map>

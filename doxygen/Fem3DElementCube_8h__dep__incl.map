@@ -1,7 +1,0 @@
-<map id="SurgSim/Physics/Fem3DElementCube.h" name="SurgSim/Physics/Fem3DElementCube.h">
-<area shape="rect" id="node2" href="$Fem3DElementCube_8cpp.html" title="SurgSim/Physics/Fem3DElement\lCube.cpp" alt="" coords="5,95,228,136"/>
-<area shape="rect" id="node3" href="$Fem3DPlyReaderDelegate_8cpp.html" title="SurgSim/Physics/Fem3DPly\lReaderDelegate.cpp" alt="" coords="253,95,445,136"/>
-<area shape="rect" id="node4" href="$Fem3DPerformanceTest_8cpp.html" title="SurgSim/Physics/Performance\lTests/Fem3DPerformanceTest.cpp" alt="" coords="469,95,706,136"/>
-<area shape="rect" id="node5" href="$Fem3DvsTruthCubeRenderTest_8cpp.html" title="SurgSim/Physics/RenderTests\l/Fem3DvsTruthCubeRenderTest.cpp" alt="" coords="729,95,979,136"/>
-<area shape="rect" id="node6" href="$RenderTestFem3D_8cpp.html" title="render test for Fem3D " alt="" coords="1003,95,1212,136"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="SurgSim/Devices/MultiAxis/BitSetBuffer.h" name="SurgSim/Devices/MultiAxis/BitSetBuffer.h">
-<area shape="rect" id="node3" href="$Assert_8h.html" title="The header that provides the assertion API. " alt="" coords="95,95,294,121"/>
-<area shape="rect" id="node4" href="$Logger_8h.html" title="SurgSim/Framework/Logger.h" alt="" coords="93,348,296,375"/>
-<area shape="rect" id="node11" href="$AssertMessage_8h.html" title="SurgSim/Framework/Assert\lMessage.h" alt="" coords="254,169,442,211"/>
-<area shape="rect" id="node5" href="$LoggerManager_8h.html" title="SurgSim/Framework/Logger\lManager.h" alt="" coords="98,423,291,464"/>
-<area shape="rect" id="node8" href="$LogOutput_8h.html" title="SurgSim/Framework/LogOutput.h" alt="" coords="316,430,540,457"/>
-<area shape="rect" id="node12" href="$LogMessageBase_8h.html" title="SurgSim/Framework/LogMessage\lBase.h" alt="" coords="233,259,463,300"/>
-</map>

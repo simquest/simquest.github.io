@@ -1,4 +1,0 @@
-<map id="MovingSquareForce" name="MovingSquareForce">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Input_1_1InputConsumerInterface.html" title="Interface for a consumer that monitors device and signal state updates (pose, buttons, etc). " alt="" coords="5,5,221,47"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Input_1_1OutputProducerInterface.html" title="Interface for a producer that generates device output updates (forces, status LED state..." alt="" coords="245,5,464,47"/>
-</map>

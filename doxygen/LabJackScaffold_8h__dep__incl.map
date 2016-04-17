@@ -1,7 +1,0 @@
-<map id="SurgSim/Devices/LabJack/LabJackScaffold.h" name="SurgSim/Devices/LabJack/LabJackScaffold.h">
-<area shape="rect" id="node2" href="$LabJackDevice_8cpp.html" title="SurgSim/Devices/LabJack\l/LabJackDevice.cpp" alt="" coords="5,95,189,136"/>
-<area shape="rect" id="node3" href="$LabJackThread_8h.html" title="SurgSim/Devices/LabJack\l/LabJackThread.h" alt="" coords="264,95,448,136"/>
-<area shape="rect" id="node5" href="$linux_2LabJackScaffold_8cpp.html" title="SurgSim/Devices/LabJack\l/linux/LabJackScaffold.cpp" alt="" coords="53,184,240,225"/>
-<area shape="rect" id="node6" href="$win32_2LabJackScaffold_8cpp.html" title="SurgSim/Devices/LabJack\l/win32/LabJackScaffold.cpp" alt="" coords="472,184,664,225"/>
-<area shape="rect" id="node4" href="$LabJackThread_8cpp.html" title="SurgSim/Devices/LabJack\l/LabJackThread.cpp" alt="" coords="264,184,448,225"/>
-</map>

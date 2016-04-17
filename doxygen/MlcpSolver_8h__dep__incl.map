@@ -1,7 +1,0 @@
-<map id="SurgSim/Math/MlcpSolver.h" name="SurgSim/Math/MlcpSolver.h">
-<area shape="rect" id="node2" href="$MlcpGaussSeidelSolver_8h.html" title="SurgSim/Math/MlcpGaussSeidel\lSolver.h" alt="" coords="153,80,373,121"/>
-<area shape="rect" id="node3" href="$MlcpGaussSeidelSolver_8cpp.html" title="SurgSim/Math/MlcpGaussSeidel\lSolver.cpp" alt="" coords="5,169,225,211"/>
-<area shape="rect" id="node4" href="$SolveMlcp_8cpp.html" title="SurgSim/Physics/SolveMlcp.cpp" alt="" coords="154,259,373,285"/>
-<area shape="rect" id="node5" href="$SolveMlcp_8h.html" title="SurgSim/Physics/SolveMlcp.h" alt="" coords="301,177,503,203"/>
-<area shape="rect" id="node6" href="$PhysicsManager_8cpp.html" title="SurgSim/Physics/PhysicsManager.cpp" alt="" coords="397,259,655,285"/>
-</map>

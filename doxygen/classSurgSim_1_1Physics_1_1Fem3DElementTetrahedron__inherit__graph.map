@@ -1,4 +1,0 @@
-<map id="SurgSim::Physics::Fem3DElementTetrahedron" name="SurgSim::Physics::Fem3DElementTetrahedron">
-<area shape="rect" id="node3" href="$classSurgSim_1_1Physics_1_1Fem3DElementCorotationalTetrahedron.html" title="Fem Element 3D co&#45;rotational based on a tetrahedron volume discretization. " alt="" coords="5,169,236,211"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Physics_1_1FemElement.html" title="Base class for all Fem Element (1D, 2D, 3D) It handles the node ids to which it is connected and requ..." alt="" coords="14,5,227,32"/>
-</map>

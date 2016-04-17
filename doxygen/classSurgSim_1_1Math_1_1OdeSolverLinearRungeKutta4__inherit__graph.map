@@ -1,4 +1,0 @@
-<map id="SurgSim::Math::OdeSolverLinearRungeKutta4" name="SurgSim::Math::OdeSolverLinearRungeKutta4">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Math_1_1OdeSolverRungeKutta4.html" title="Runge Kutta 4 ode solver See http://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods. " alt="" coords="5,80,191,121"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Math_1_1OdeSolver.html" title="Base class for all solvers of ode equation of order 2 of the form M(x(t), v(t)).a(t) = f(t..." alt="" coords="5,5,191,32"/>
-</map>

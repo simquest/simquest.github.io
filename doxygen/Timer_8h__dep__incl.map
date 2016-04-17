@@ -1,8 +1,0 @@
-<map id="SurgSim/Framework/Timer.h" name="SurgSim/Framework/Timer.h">
-<area shape="rect" id="node2" href="$NamedDataPerformanceTest_8cpp.html" title="SurgSim/DataStructures\l/PerformanceTests/NamedDataPerformance\lTest.cpp" alt="" coords="5,80,300,136"/>
-<area shape="rect" id="node3" href="$PoseIntegrator_8h.html" title="SurgSim/Devices/DeviceFilters\l/PoseIntegrator.h" alt="" coords="323,87,534,129"/>
-<area shape="rect" id="node6" href="$Timer_8cpp.html" title="SurgSim/Framework/Timer.cpp" alt="" coords="557,95,769,121"/>
-<area shape="rect" id="node7" href="$Fem3DPerformanceTest_8cpp.html" title="SurgSim/Physics/Performance\lTests/Fem3DPerformanceTest.cpp" alt="" coords="793,87,1030,129"/>
-<area shape="rect" id="node4" href="$PoseIntegrator_8cpp.html" title="SurgSim/Devices/DeviceFilters\l/PoseIntegrator.cpp" alt="" coords="211,184,422,225"/>
-<area shape="rect" id="node5" href="$MultiAxisDevice_8cpp.html" title="SurgSim/Devices/MultiAxis\l/MultiAxisDevice.cpp" alt="" coords="446,184,633,225"/>
-</map>

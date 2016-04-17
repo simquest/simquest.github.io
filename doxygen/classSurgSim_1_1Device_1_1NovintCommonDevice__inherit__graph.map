@@ -1,6 +1,0 @@
-<map id="SurgSim::Device::NovintCommonDevice" name="SurgSim::Device::NovintCommonDevice">
-<area shape="rect" id="node4" href="$classSurgSim_1_1Device_1_1Novint7DofDevice.html" title="A class implementing the communication with a Novint Falcon with the Open Surgery Grip 7&#45;DoF device..." alt="" coords="5,244,184,285"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Device_1_1NovintDevice.html" title="A class implementing the communication with a Novint Falcon device. " alt="" coords="209,251,423,278"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Input_1_1CommonDevice.html" title="A class that implements some common management code on top of the DeviceInterface. " alt="" coords="95,80,315,107"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Input_1_1DeviceInterface.html" title="Interface used to communicate with user&#45;interface hardware devices. " alt="" coords="97,5,314,32"/>
-</map>

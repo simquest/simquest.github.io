@@ -1,7 +1,0 @@
-<map id="SurgSim/Devices/Mouse/MouseDevice.h" name="SurgSim/Devices/Mouse/MouseDevice.h">
-<area shape="rect" id="node2" href="$MouseDevice_8cpp.html" title="SurgSim/Devices/Mouse\l/MouseDevice.cpp" alt="" coords="5,95,180,136"/>
-<area shape="rect" id="node3" href="$MouseScaffold_8cpp.html" title="SurgSim/Devices/Mouse\l/MouseScaffold.cpp" alt="" coords="204,95,379,136"/>
-<area shape="rect" id="node4" href="$MouseVisualTests_8cpp.html" title="SurgSim/Devices/Mouse\l/VisualTests/MouseVisualTests.cpp" alt="" coords="403,95,647,136"/>
-<area shape="rect" id="node5" href="$OsgView_8cpp.html" title="SurgSim/Graphics/OsgView.cpp" alt="" coords="671,102,890,129"/>
-<area shape="rect" id="node6" href="$OsgViewElement_8cpp.html" title="SurgSim/Graphics/OsgView\lElement.cpp" alt="" coords="915,95,1108,136"/>
-</map>

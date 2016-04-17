@@ -1,6 +1,0 @@
-<map id="SurgSim::Physics::Fem2DPlyReaderDelegate" name="SurgSim::Physics::Fem2DPlyReaderDelegate">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Physics_1_1FemPlyReaderDelegate.html" title="Common part of implementation of PlyReaderDelegate for FemRepresentations. " alt="" coords="363,104,545,145"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1DataStructures_1_1PlyReaderDelegate.html" title="PlyReaderDelegate abstract class. " alt="" coords="24,5,196,47"/>
-<area shape="rect" id="node4" href="$structSurgSim_1_1Physics_1_1FemPlyReaderDelegate_1_1MaterialData.html" title="Internal data to receive the &quot;material&quot; data. " alt="" coords="6,71,214,112"/>
-<area shape="rect" id="node5" href="$structSurgSim_1_1Physics_1_1FemPlyReaderDelegate_1_1ElementData.html" title="Internal data to receive the fem element. " alt="" coords="5,136,215,177"/>
-</map>

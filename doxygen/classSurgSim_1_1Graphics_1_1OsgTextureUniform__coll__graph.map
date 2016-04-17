@@ -1,9 +1,0 @@
-<map id="SurgSim::Graphics::OsgTextureUniform&lt; T &gt;" name="SurgSim::Graphics::OsgTextureUniform&lt; T &gt;">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1Uniform.html" title="SurgSim::Graphics::\lUniform\&lt; std::shared\l_ptr\&lt; T \&gt; \&gt;" alt="" coords="1139,5,1287,61"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1UniformBase.html" title="Common base class for all graphics uniforms. " alt="" coords="944,59,1089,101"/>
-<area shape="rect" id="node9" href="$classSurgSim_1_1Graphics_1_1OsgUniformBase.html" title="Base OSG implementation of graphics uniforms. " alt="" coords="1140,85,1285,126"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="744,59,895,101"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="223,33,304,60"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="5,26,135,67"/>
-<area shape="rect" id="node8" href="$structSurgSim_1_1Framework_1_1Accessible_1_1Functors.html" title="Private struct to keep the map under control. " alt="" coords="184,85,343,126"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SurgSim/Devices/MultiAxis/GetSystemError.h" name="SurgSim/Devices/MultiAxis/GetSystemError.h">
-<area shape="rect" id="node2" href="$linux_2GetSystemError_8cpp.html" title="SurgSim/Devices/MultiAxis\l/linux/GetSystemError.cpp" alt="" coords="5,95,192,136"/>
-<area shape="rect" id="node3" href="$InputDeviceHandle_8cpp.html" title="SurgSim/Devices/MultiAxis\l/linux/InputDeviceHandle.cpp" alt="" coords="216,95,419,136"/>
-<area shape="rect" id="node4" href="$RawMultiAxisScaffold_8cpp.html" title="SurgSim/Devices/MultiAxis\l/RawMultiAxisScaffold.cpp" alt="" coords="443,95,629,136"/>
-<area shape="rect" id="node5" href="$win32_2GetSystemError_8cpp.html" title="SurgSim/Devices/MultiAxis\l/win32/GetSystemError.cpp" alt="" coords="653,95,840,136"/>
-<area shape="rect" id="node6" href="$WdkHidDeviceHandle_8cpp.html" title="SurgSim/Devices/MultiAxis\l/win32/WdkHidDeviceHandle.cpp" alt="" coords="864,95,1091,136"/>
-</map>

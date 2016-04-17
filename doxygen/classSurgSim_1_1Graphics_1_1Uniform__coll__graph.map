@@ -1,7 +1,0 @@
-<map id="SurgSim::Graphics::Uniform&lt; T &gt;" name="SurgSim::Graphics::Uniform&lt; T &gt;">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1UniformBase.html" title="Common base class for all graphics uniforms. " alt="" coords="105,424,251,465"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="103,333,253,375"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="29,103,111,130"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="5,5,135,47"/>
-<area shape="rect" id="node7" href="$structSurgSim_1_1Framework_1_1Accessible_1_1Functors.html" title="Private struct to keep the map under control. " alt="" coords="135,96,293,137"/>
-</map>

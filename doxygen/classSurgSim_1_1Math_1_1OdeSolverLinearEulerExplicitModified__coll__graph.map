@@ -1,7 +1,0 @@
-<map id="SurgSim::Math::OdeSolverLinearEulerExplicitModified" name="SurgSim::Math::OdeSolverLinearEulerExplicitModified">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Math_1_1OdeSolverEulerExplicitModified.html" title="Euler Explicit Modified ode solver. " alt="" coords="81,261,266,303"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Math_1_1OdeSolver.html" title="Base class for all solvers of ode equation of order 2 of the form M(x(t), v(t)).a(t) = f(t..." alt="" coords="81,185,266,212"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Math_1_1OdeEquation.html" title="Ode equation of 2nd order of the form M(x,v).a = F(x, v) with (x0, v0) for initial conditions and a s..." alt="" coords="5,96,205,123"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="229,96,310,123"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="205,5,334,47"/>
-</map>

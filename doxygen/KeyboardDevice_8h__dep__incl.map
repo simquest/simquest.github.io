@@ -1,7 +1,0 @@
-<map id="SurgSim/Devices/Keyboard/KeyboardDevice.h" name="SurgSim/Devices/Keyboard/KeyboardDevice.h">
-<area shape="rect" id="node2" href="$KeyboardDevice_8cpp.html" title="SurgSim/Devices/Keyboard\l/KeyboardDevice.cpp" alt="" coords="5,95,197,136"/>
-<area shape="rect" id="node3" href="$KeyboardScaffold_8cpp.html" title="SurgSim/Devices/Keyboard\l/KeyboardScaffold.cpp" alt="" coords="221,95,413,136"/>
-<area shape="rect" id="node4" href="$KeyboardVisualTests_8cpp.html" title="SurgSim/Devices/Keyboard\l/VisualTests/KeyboardVisualTests.cpp" alt="" coords="438,95,701,136"/>
-<area shape="rect" id="node5" href="$OsgView_8cpp.html" title="SurgSim/Graphics/OsgView.cpp" alt="" coords="725,102,944,129"/>
-<area shape="rect" id="node6" href="$OsgViewElement_8cpp.html" title="SurgSim/Graphics/OsgView\lElement.cpp" alt="" coords="969,95,1162,136"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="SurgSim::Framework::BasicSceneElement" name="SurgSim::Framework::BasicSceneElement">
-<area shape="rect" id="node4" href="$classSurgSim_1_1Graphics_1_1ViewElement.html" title="Basic SceneElement that wraps a View so that it can be added to the Scene. " alt="" coords="30,273,175,315"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Framework_1_1SceneElement.html" title="SceneElement is the basic part of a scene, it is a container of components. " alt="" coords="27,95,178,136"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Graphics_1_1OsgViewElement.html" title="OSG&#45;based implementation of graphics view element. " alt="" coords="30,363,175,404"/>
-</map>

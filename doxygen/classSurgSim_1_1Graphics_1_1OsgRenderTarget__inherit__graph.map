@@ -1,4 +1,0 @@
-<map id="SurgSim::Graphics::OsgRenderTarget&lt; T &gt;" name="SurgSim::Graphics::OsgRenderTarget&lt; T &gt;">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1OsgAbstractRenderTarget.html" title="Osg abstract render target, this hides the type of the actual osg texture and lets us use OsgRenderTa..." alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1RenderTarget.html" title="RenderTarget is an abstraction of the target buffers that a Camera should use to render it&#39;s scene va..." alt="" coords="24,5,169,47"/>
-</map>

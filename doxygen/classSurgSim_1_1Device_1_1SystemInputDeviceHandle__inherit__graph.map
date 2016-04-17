@@ -1,4 +1,0 @@
-<map id="SurgSim::Device::SystemInputDeviceHandle" name="SurgSim::Device::SystemInputDeviceHandle">
-<area shape="rect" id="node2" href="$classSurgSim_1_1Device_1_1InputDeviceHandle.html" title="Access to an input/HID device using the Input API in Linux. " alt="" coords="5,95,212,136"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Device_1_1WdkHidDeviceHandle.html" title="Access to an input/HID device using the HID API from the Windows Driver Kit. " alt="" coords="237,95,461,136"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="SurgSim/Physics/ConstraintImplementationFactory.h" name="SurgSim/Physics/ConstraintImplementationFactory.h">
-<area shape="rect" id="node2" href="$ConstraintImplementationFactory_8cpp.html" title="SurgSim/Physics/Constraint\lImplementationFactory.cpp" alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$ContactConstraintGeneration_8h.html" title="SurgSim/Physics/ContactConstraint\lGeneration.h" alt="" coords="220,95,459,136"/>
-<area shape="rect" id="node4" href="$ContactConstraintGeneration_8cpp.html" title="SurgSim/Physics/ContactConstraint\lGeneration.cpp" alt="" coords="84,184,323,225"/>
-<area shape="rect" id="node5" href="$PhysicsManager_8cpp.html" title="SurgSim/Physics/PhysicsManager.cpp" alt="" coords="347,191,604,218"/>
-</map>

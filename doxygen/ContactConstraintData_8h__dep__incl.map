@@ -1,7 +1,0 @@
-<map id="SurgSim/Physics/ContactConstraintData.h" name="SurgSim/Physics/ContactConstraintData.h">
-<area shape="rect" id="node2" href="$ContactConstraintGeneration_8cpp.html" title="SurgSim/Physics/ContactConstraint\lGeneration.cpp" alt="" coords="5,95,244,136"/>
-<area shape="rect" id="node3" href="$Fem3DRepresentationContact_8cpp.html" title="SurgSim/Physics/Fem3DRepresentation\lContact.cpp" alt="" coords="269,95,535,136"/>
-<area shape="rect" id="node4" href="$FixedRepresentationContact_8cpp.html" title="SurgSim/Physics/FixedRepresentation\lContact.cpp" alt="" coords="559,95,815,136"/>
-<area shape="rect" id="node5" href="$MassSpringRepresentationContact_8cpp.html" title="SurgSim/Physics/MassSpring\lRepresentationContact.cpp" alt="" coords="839,95,1042,136"/>
-<area shape="rect" id="node6" href="$RigidRepresentationContact_8cpp.html" title="SurgSim/Physics/RigidRepresentation\lContact.cpp" alt="" coords="1066,95,1319,136"/>
-</map>

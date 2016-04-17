@@ -1,0 +1,9 @@
+navigation:
+  - title: Home
+    url: home.html
+  - title: Getting Started
+    url: started.html
+  - title: Examples
+    url: examples.html
+  - title: Gallery
+    url: gallery.html

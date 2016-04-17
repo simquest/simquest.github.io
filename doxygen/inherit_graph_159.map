@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSurgSim_1_1Physics_1_1FemElement.html" title="Base class for all Fem Element (1D, 2D, 3D) It handles the node ids to which it is connected and requ..." alt="" coords="5,93,219,120"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Physics_1_1Fem1DElementBeam.html" title="1D FemElement based on a beam volume discretization with a fixed cross section " alt="" coords="267,5,533,32"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Physics_1_1Fem2DElementTriangle.html" title="2D FemElement based on a triangle with a constant thickness " alt="" coords="285,57,515,98"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Physics_1_1Fem3DElementCube.html" title="Class for Fem Element 3D based on a cube volume discretization. " alt="" coords="268,123,532,149"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Physics_1_1Fem3DElementTetrahedron.html" title="Class for Fem Element 3D based on a tetrahedron volume discretization. " alt="" coords="285,174,515,215"/>
-<area shape="rect" id="node6" href="$classSurgSim_1_1Physics_1_1Fem3DElementCorotationalTetrahedron.html" title="Fem Element 3D co&#45;rotational based on a tetrahedron volume discretization. " alt="" coords="581,174,812,215"/>
-</map>

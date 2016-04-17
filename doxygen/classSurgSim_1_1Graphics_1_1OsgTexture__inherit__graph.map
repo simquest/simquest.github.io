@@ -1,8 +1,0 @@
-<map id="SurgSim::Graphics::OsgTexture" name="SurgSim::Graphics::OsgTexture">
-<area shape="rect" id="node3" href="$classSurgSim_1_1Graphics_1_1OsgTexture1d.html" title="OSG implementation of a 1D Texture. " alt="" coords="399,5,544,47"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Graphics_1_1OsgTexture2d.html" title="OSG implementation of a 2D Texture. " alt="" coords="399,71,544,112"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Graphics_1_1OsgTexture3d.html" title="OSG implementation of a 3D Texture. " alt="" coords="399,136,544,177"/>
-<area shape="rect" id="node6" href="$classSurgSim_1_1Graphics_1_1OsgTextureCubeMap.html" title="OSG implementation of a Cube Map Texture. " alt="" coords="393,201,550,243"/>
-<area shape="rect" id="node7" href="$classSurgSim_1_1Graphics_1_1OsgTextureRectangle.html" title="OSG implementation of a Rectangle Texture. " alt="" coords="392,267,551,308"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Graphics_1_1Texture.html" title="Base class defining the interface for a Graphics Texture. " alt="" coords="5,136,151,177"/>
-</map>

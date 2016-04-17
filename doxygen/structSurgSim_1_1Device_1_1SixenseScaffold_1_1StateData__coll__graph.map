@@ -1,7 +1,0 @@
-<map id="SurgSim::Device::SixenseScaffold::StateData" name="SurgSim::Device::SixenseScaffold::StateData">
-<area shape="rect" id="node5" href="$classSurgSim_1_1Device_1_1SixenseThread.html" title="A class implementing the thread context for sampling Sixense devices. " alt="" coords="1532,71,1715,112"/>
-<area shape="rect" id="node6" href="$classSurgSim_1_1Framework_1_1BasicThread.html" title="Basic thread implementation, tries to maintain a constant rate, supplies startup an initialization..." alt="" coords="1248,5,1399,47"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="996,13,1077,39"/>
-<area shape="rect" id="node8" title="STL class. " alt="" coords="723,5,852,47"/>
-<area shape="rect" id="node9" href="$classSurgSim_1_1Device_1_1SixenseScaffold.html" title="A class that manages Sixense devices, such as the Razer Hydra. " alt="" coords="1232,71,1415,112"/>
-</map>

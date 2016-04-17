@@ -1,8 +1,0 @@
-<map id="SurgSim::Physics::RigidRepresentationBase" name="SurgSim::Physics::RigidRepresentationBase">
-<area shape="rect" id="node7" href="$classSurgSim_1_1Physics_1_1FixedRepresentation.html" title="The FixedRepresentation class represents a physics entity without any motion nor compliance against w..." alt="" coords="5,423,269,449"/>
-<area shape="rect" id="node8" href="$classSurgSim_1_1Physics_1_1RigidRepresentation.html" title="The RigidRepresentation class defines the dynamic rigid body representation Note that the rigid repre..." alt="" coords="293,423,555,449"/>
-<area shape="rect" id="node2" href="$classSurgSim_1_1Physics_1_1Representation.html" title="The Representation class defines the base class for all physics objects. " alt="" coords="165,273,395,300"/>
-<area shape="rect" id="node3" href="$classSurgSim_1_1Framework_1_1Representation.html" title="Representations are manifestations of a SceneElement. " alt="" coords="205,184,355,225"/>
-<area shape="rect" id="node4" href="$classSurgSim_1_1Framework_1_1Component.html" title="Component is the main interface class to pass information to the system managers each will decide whe..." alt="" coords="205,95,355,136"/>
-<area shape="rect" id="node5" href="$classSurgSim_1_1Framework_1_1Accessible.html" title="Mixin class for enabling a property system on OSS classes, the instance still needs to initialize pro..." alt="" coords="110,5,261,47"/>
-</map>
