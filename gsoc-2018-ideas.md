@@ -15,3 +15,6 @@ Scenes in OSS can be written in C++ or scripted via YAML. For easier access to O
 
 While most components in OSS have a type neutral interface that could be used for scripting, there are no language bindings implemented right now. It is conceivable that scenes could be assembled via scripts (scripting one way). In the other direction it would be quite handy to be able to write OSS behaviors in a scripting language.
 
+## Improve Blender Tools
+
+There is a set of Blender add-ons provided in OSS that aid in generating FEM model files for the physics engine in OSS to use. Presently they do work, although there are limitations or certain special cases that are not supported that would greatly improve their usefullness if implemented. Additionally certain ease-of-use functionalities could bolster the user experience of using the addo-ons.
