@@ -8,7 +8,7 @@ Welcome to OSS. Hopefully you are interested in real time physical simulation in
 
 OSS is written in C++11 and supports Windows & Linux. When writing code for OSS you will also be required to write unit test code to make sure things are working ok and document your header files via doxygen.
 
-If you are interested in OSS sign up to the [mailing list] on google groups.(https://groups.google.com/a/simquest.com/forum/#!forum/opensurgsim/join) 
+If you are interested in OSS sign up to the [mailing list](https://groups.google.com/a/simquest.com/forum/#!forum/opensurgsim/join) on google groups.
 
 ## Ideas
 
