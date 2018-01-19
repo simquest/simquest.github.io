@@ -1,17 +1,68 @@
 ---
 layout: default
 ---
-OpenSurgSim has various areas that could use improvement, spanning from graphics to scripting or physics. Any help in these areas is always appreciated. Here are just a few ideas.  
 
-## Improve OSS redering capabilities
 
-The current OSS rendering system is based on simple phong shading equation, with the current advances in graphics cards physically based rendering (PBR) is becoming more and more common, tasks in this area would be extending the OSS rendering pipeline to enable PBR, enable high definition range images, writing the appropriate shaders. 
+OpenSurgSim has various areas that could use improvement, spanning from graphics to scripting or physics. Any help in these areas is always appreciated. Remember that these are just some ideas.
 
-## Implement a scene editing composer
+## Ideas
 
-Scenes in OSS can be written in C++ or scripted via YAML. For easier access to OSS it would be great if scenes could be assembled via a tool. This will not only require writing this tool but also modifications to some of the core engines of OSS to enable a "paused" assembly of components.
+### Physically based rendering
 
-## Scripting (2 ways)
+The current OSS rendering system is based on simple phong shading equation, with the current advances in graphics cards physically based rendering (PBR) is becoming more and more common. OSS does have concept of rendering stages and render to texture cameras, it uses the OpenScenegraph library for all its rendering. You would be working on extending the OSS rendering pipeline to enable PBR, enable high definition range images, writing the appropriate shaders.
 
-While most components in OSS have a type neutral interface that could be used for scripting, there are no language bindings implemented right now. It is conceivable that scenes could be assembled via scripts (scripting one way). In the other direction it would be quite handy to be able to write OSS behaviors in a scripting language.
+- **Proficiencies**: C++, OpenSceneGraph, Computer Graphics, GLSL, Physically based Rendering
+- **Difficulty**: Hard
+- **Mentors**: Harald Scheirich, Ryan Kornheisl
 
+### OSS Scene Composer
+
+Scenes in OSS can be written in C++ or scripted via YAML. For easier access to OSS it would be great if scenes could be assembled via a tool. We have done some experiments with ImGui and those have shown promise. Our current runtime architecture is not quite suited for a "paused" assembly, this would probably be the biggest hurdle. You would be modifying the core to enable assembly, write the actual "editor" or editing mode and enable change to components parameters through a UI.
+
+- **Proficiencies**: C++, Application Development, ImGUI
+- **Difficulty**: Medium
+- **Mentors**: Harald Scheirich, Ryan Kornheisl
+
+### Python to OSS scripting
+
+One of our long term goals was always to be accessible from scripting languages, so one could write OSS simulations in a scripting language. While some prerequisites are available (we have untyped infrastructure inside of OSS), the details were never worked out. If you've always wanted to create a script engine this is your chance. A technical hurdle is that we have been building everything as static libraries under Windows this would probably have to change. You would be creating the language binding, any necessary interfaces between Python and OSS, you might have to work with the build system.
+If you can make a case for a different scripting language please do so in your proposal.
+
+- **Proficiencies**: C++, Python, Language Binding, SWIG, CMake
+- **Difficulty**: Medium
+- **Mentors**: Harald Scheirich, Ryan Kornheisl
+
+### OSS to Python scripting
+
+While writing components in C++ is our preferred mode, sometimes it would be helpful if we could write components in a scripting language, the goal is to enable OSS to execute a scripted component. You would need to write a `ScriptableComponent` that can execute a script, you would also need to enable bidrectional access to this components variables through out property system. Access to other components properties should also be available
+If you can make a case for a different scripting language please do so in your proposal.
+
+- **Proficiencies**: C++, Python, Language Binding, SWIG
+- **Difficulty**: Medium
+- **Mentors**: Harald Scheirich, Ryan Kornheisl
+
+### Physics Speedup
+
+A hard threshold to performance in OSS are physics calculations, in most cases all physics have to be dealt with before a new frame can be started. Haptics feel ok under 250Hz but faster is always better. The human touch runs at a rate of about 1kHz. There are various avenues in OSS that could be pursued, if you are interested in this kind of work talk to us.
+
+- **Proficiencies**: C++, Numerical Mathematics, Physics, Mechanics
+- **Difficulty**: Hard
+- **Mentors**: Ryan Beasley, Harald Scheirich
+
+
+## Applying to OSS
+
+In most cases you will need to be conversant with C++11 and should be comfortable with using Boost and google-test. Due to the time constraints we won't be able to teach you C++. If you are interested in working with OSS sign up to the mailing list and send a proposal. While there is no specific format for this please consider the following questions:
+
+- Why do you want to work with OSS ?
+- What is your background ? What projects have you worked on ?
+- What motivates you ? What keeps you in front of the keyboard ?
+- A brief description of your project.
+- A more detailed description of your project including goals, maybe a rough timeline, references that you would use, etc.
+- Why do you want to do this project ?
+- How did you prepare ? Did you prototype your solution ?
+- What are the biggest risk factors in this that could prevent you from finishing ?
+- How will you schedule your work and allocate your time over the course of the three months ? 
+- Contact information
+
+All our mentors are located in the EST Timezone, while working with a time difference of +/- 6-8 hours is feasible anything further away makes communication extremely challenging.
