@@ -2,8 +2,13 @@
 layout: default
 ---
 
+# OpenSurgSim Google Summer of Code 2018
 
-OpenSurgSim has various areas that could use improvement, spanning from graphics to scripting or physics. Any help in these areas is always appreciated. Remember that these are just some ideas.
+Welcome to OSS. Hopefully you are interested in real time physical simulation in general or medical simulation specifically. OSS is a framework to do that. We have various areas that could use improvement, spanning from graphics to scripting or physics. Any help in these areas is always appreciated. Remember that these are just some ideas.
+
+OSS is written in C++11 and supports Windows & Linux. When writing code for OSS you will also be required to write unit test code to make sure things are working ok and document your header files via doxygen.
+
+If you are interested in OSS sign up to the [mailing list] on google groups.(https://groups.google.com/a/simquest.com/forum/#!forum/opensurgsim/join) 
 
 ## Ideas
 
