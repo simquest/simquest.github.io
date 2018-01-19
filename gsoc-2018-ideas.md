@@ -41,6 +41,14 @@ If you can make a case for a different scripting language please do so in your p
 - **Difficulty**: Medium
 - **Mentors**: Harald Scheirich, Ryan Kornheisl
 
+### Improve Blender Tools
+
+There is a set of Blender add-ons provided in OSS that aid in generating FEM model files for the physics engine in OSS to use. Presently they do work, although there are limitations or certain special cases that are not supported that would greatly improve their usefulness if implemented. Additionally certain ease-of-use functionalities could bolster the user experience of using the add-ons. You would be modifying our current plugin to improve the UI and add feature to the exporter for example: adding per vertex properties, enabling the editing of finite element model boundary conditions. 
+
+- **Proficiencies**: Python, Blender, 3D Modelling
+- **Difficulty**: Easy
+- **Mentors**: Ryan Kornheisl, Harald Scheirich
+
 ### Physics Speedup
 
 A hard threshold to performance in OSS are physics calculations, in most cases all physics have to be dealt with before a new frame can be started. Haptics feel ok under 250Hz but faster is always better. The human touch runs at a rate of about 1kHz. There are various avenues in OSS that could be pursued, if you are interested in this kind of work talk to us.
