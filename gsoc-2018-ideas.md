@@ -14,7 +14,7 @@ If you are interested in OSS sign up to the [mailing list](https://groups.google
 
 ### Physically based rendering
 
-The current OSS rendering system is based on simple phong shading equation, with the current advances in graphics cards physically based rendering (PBR) is becoming more and more common. OSS does have concept of rendering stages and render to texture cameras, it uses the OpenScenegraph library for all its rendering. You would be working on extending the OSS rendering pipeline to enable PBR, enable high definition range images, writing the appropriate shaders.
+The current OSS rendering system is based on simple phong shading equation, with the current advances in graphics cards physically based rendering (PBR) is becoming more and more common. You would be working on extending the OSS rendering pipeline to enable PBR, enable high definition range images, writing the appropriate shaders.
 
 - **Proficiencies**: C++, OpenSceneGraph, Computer Graphics, GLSL, Physically based Rendering
 - **Difficulty**: Hard
